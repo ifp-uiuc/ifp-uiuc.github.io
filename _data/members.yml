@@ -1,0 +1,107 @@
+- name: Shiyu Chang
+  image: default.gif
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:name@domain.com
+    - title: link
+      url: http://google.com/
+
+- name: Kuangxiao Gu
+  image: default.gif
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:name@domain.com
+    - title: link
+      url: http://google.com/
+
+- name: Wei Han
+  image: default.gif
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:name@domain.com
+    - title: link
+      url: http://google.com/
+
+- name: Pooya Khorrami  
+  image: default.gif
+  text: 
+  social:
+    - title: envelope #use for email address
+      url: mailto:name@domain.com
+    - title: link
+      url: http://google.com/
+
+- name: Ding Liu
+  image: default.gif
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:name@domain.com
+    - title: link
+      url: http://google.com/
+
+- name: Xianming Liu
+  image: default.gif
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:name@domain.com
+    - title: link
+      url: http://google.com/
+
+- name: Tom Le Paine
+  image: default.gif
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:name@domain.com
+    - title: link
+      url: http://google.com/
+
+- name: Honghui Shi
+  image: default.gif
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:name@domain.com
+    - title: link
+      url: http://google.com/
+
+- name: Jiangping Wang
+  image: default.gif
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:name@domain.com
+    - title: link
+      url: http://google.com/
+
+- name: Zhangyang Wang
+  image: default.gif
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:name@domain.com
+    - title: link
+      url: http://google.com/
+
+- name: Ning Xu
+  image: default.gif
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:name@domain.com
+    - title: link
+      url: http://google.com/
+
+- name: Yingzhen Yang
+  image: default.gif
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:name@domain.com
+    - title: link
+      url: http://google.com/
