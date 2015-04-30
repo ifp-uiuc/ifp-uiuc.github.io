@@ -53,7 +53,7 @@
       url: http://google.com/
 
 - name: Tom Le Paine
-  image: default.gif
+  image: tom.jpg
   text:
   social:
     - title: envelope #use for email address
