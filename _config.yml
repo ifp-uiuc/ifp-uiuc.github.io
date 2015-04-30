@@ -4,7 +4,7 @@
 title: Image Formation and Processing at UIUC.
 description: "Computer vision research."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/" #important: start with /
+baseurl: "" #important: start with /
 url: "ifp-uiuc.github.io"
 
 # Build settings
