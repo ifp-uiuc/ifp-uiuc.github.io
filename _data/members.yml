@@ -30,9 +30,9 @@
   text: 
   social:
     - title: envelope #use for email address
-      url: mailto:name@domain.com
+      url: mailto:pkhorra2@illinois.edu
     - title: link
-      url: http://google.com/
+      url: https://sites.google.com/site/pkhorra2/
 
 - name: Ding Liu
   image: default.gif
