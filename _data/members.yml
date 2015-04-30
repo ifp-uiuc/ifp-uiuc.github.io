@@ -80,7 +80,7 @@
       url: http://google.com/
 
 - name: Zhangyang Wang
-  image: default.gif
+  image: atlas.jpg
   text:
   social:
     - title: envelope #use for email address
