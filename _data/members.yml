@@ -3,7 +3,7 @@
   text:
   social:
     - title: envelope #use for email address
-      url: mailto:mnbvcxz210@gmail.com
+      url: mailto:chang87@illinois.edu
     - title: link
       url: http://google.com/
 
@@ -17,11 +17,11 @@
       url: http://google.com/
 
 - name: Wei Han
-  image: default.gif
+  image: wei.jpg
   text:
   social:
     - title: envelope #use for email address
-      url: mailto:name@domain.com
+      url: mailto:weihan3@illinois.edu
     - title: link
       url: http://google.com/
 
@@ -57,7 +57,7 @@
   text:
   social:
     - title: envelope #use for email address
-      url: mailto:name@domain.com
+      url: mailto:tom.le.paine@gmail.com
     - title: link
       url: http://google.com/
 
