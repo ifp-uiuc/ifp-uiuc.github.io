@@ -1,9 +1,9 @@
 - name: Shiyu Chang
-  image: default.gif
+  image: shiyu.jpg
   text:
   social:
     - title: envelope #use for email address
-      url: mailto:name@domain.com
+      url: mailto:mnbvcxz210@gmail.com
     - title: link
       url: http://google.com/
 
