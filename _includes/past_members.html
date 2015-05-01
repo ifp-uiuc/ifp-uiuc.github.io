@@ -1,0 +1,23 @@
+<div class="container mtb">
+    <div class="row centered">
+        <h3 class="mb">Past Students</h3>
+        
+        {% assign sorted_members = site.data.past_members | sort:"name" %}
+
+        {% for member in sorted_members %}
+            <p>
+            {% if member.url %}
+               <a href="{{ member.url }}">{{ member.name }}</a>
+            {% else %}
+                {{ member.name }}
+            {% endif %}
+
+            {% if member.job %}
+              - {{ member.job }}
+            {% endif %}
+            </p>
+            
+        {% endfor %}
+        
+    </div><! --/row -->
+</div><! --/container -->

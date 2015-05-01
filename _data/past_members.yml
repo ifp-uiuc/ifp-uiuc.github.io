@@ -1,7 +1,139 @@
-- name: Tom Le Paine
-  title: Captain McAwesome
-  image: stamos.jpeg
+- name: Ashutosh Garg
+  job: Bloomreach Inc.
+  email: ashutosh@ifp.uiuc.edu
+  url: http://www.ifp.illinois.edu/~ashutosh/
 
-- name: Pooya Khorrami
-  title: Commander Jedi Awesome
-  image: clooney.jpeg
+- name: Chang Wen Chen
+  job: Unversity of Buffalo
+  email: chencw@cse.buffalo.edu
+  url: http://www.cse.buffalo.edu/UBMM/People/dr.chen.html
+
+- name: Xinqi Chu
+  job: 
+  email: 
+  url: http://www.ifp.illinois.edu/~chu36/index.html
+
+- name: Guo-Jun Qi
+  job: University of Central Florida
+  email: guojunq@gmail.com
+  url: http://www.eecs.ucf.edu/~gqi/
+
+- name: Haichao Zhang
+  job: Amazon
+  email: hczhang1@gmail.com
+  url: https://sites.google.com/site/hczhang1/home
+
+- name: Hanning Zhou
+  job: Amazon
+  email: hzhou@ifp.uiuc.edu
+  url: http://www.ifp.illinois.edu/~hzhou/
+
+- name: Henry Hao Tang
+  job: 
+  email: haotang2@uiuc.edu
+  url: http://www.ifp.illinois.edu/~haotang2/index.html
+
+- name: Huazhong Ning
+  job: Google
+  email: ninghz@gmail.com
+  url: http://www.ifp.illinois.edu/~hning2/
+
+- name: Jianchao Yang
+  job: Adobe 
+  email: jiayang@adobe.com
+  url: http://www.ifp.illinois.edu/~jyang29/
+
+- name: Jiebo Luo
+  job: Unversity of Rochester
+  email: jluo@cs.rochester.edu
+  url: http://www.cs.rochester.edu/u/jluo/
+
+- name: Jilin Tu
+  job: General Electric
+  email: 
+  url: http://www.ifp.illinois.edu/~jilintu/
+
+- name: John Lin
+  job: 
+  email: jylin9@ifp.uiuc.edu
+  url: http://www.ifp.illinois.edu/~jy-lin/
+
+- name: Liangliang Cao
+  job: IBM 
+  email: liangliang.cao@gmail.com
+  url: http://www.ifp.illinois.edu/~cao4/
+
+- name: Ming Liu
+  job: 
+  email: mingliu1@ifp.uiuc.edu
+  url: http://www.ifp.illinois.edu/~mingliu1/
+
+- name: Nebojsa Jojic
+  job: Microsoft
+  email: jojic@microsoft.com
+  url: http://research.microsoft.com/en-us/um/people/jojic/
+
+- name: Nemanja Petrovic
+  job: Google
+  email: 
+  url: http://www.ifp.illinois.edu/~nemanja/resume.html
+
+- name: Ying Wu
+  job: Northwestern
+  email: yingwu@northwestern.edu
+  url: http://users.eecs.northwestern.edu/~yingwu/
+
+- name: Qi Tian
+  job: University of Texas at San Antonio 
+  email: qitian@cs.utsa.edu
+  url: http://www.cs.utsa.edu/~qitian/
+
+- name: Qiong Liu
+  job: FXPAL
+  email: liu@fxpal.com
+  url: http://www.fxpal.com/people/qiong-liu
+
+- name: Zhaowen Wang
+  job: Adobe
+  email: 
+  url: http://www.ifp.illinois.edu/~wang308/
+
+- name: Terrence Chen
+  job: Siemens
+  email: 
+  url: http://www.ifp.illinois.edu/~tchen5/AboutMe.html
+
+- name: Tony Xu Han
+  job: Unversity of Missouri-Columbia
+  email: hantx@missouri.edu
+  url: http://web.missouri.edu/~hantx/
+
+- name: Vuong Le
+  job: Amazon
+  email: 
+  url: http://www.ifp.illinois.edu/~vuongle2/
+
+- name: Xiang Sean Zhou
+  job: 
+  email: 
+  url: http://www.ifp.illinois.edu/~xzhou2/
+
+- name: Yue Zhou
+  job: 
+  email: yuezhou@ifp.uiuc.edu
+  url: http://www.ifp.illinois.edu/~yuezhou/
+
+- name: Yunqiang Chen
+  job: 
+  email: 
+  url: http://www.ifp.illinois.edu/~chenyq/
+
+- name: Yuxiao Hu
+  job: Microsoft
+  email: yuxiaohu@msn.com
+  url: http://www.ifp.illinois.edu/~hu3/
+
+- name: Zhen Li
+  job: Google
+  email: 
+  url:
