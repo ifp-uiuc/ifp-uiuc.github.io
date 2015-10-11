@@ -24,12 +24,12 @@
   url: https://sites.google.com/site/hczhang1/home
 
 - name: Hanning Zhou
-  job: Amazon
+  job:
   email: hzhou@ifp.uiuc.edu
   url: http://www.ifp.illinois.edu/~hzhou/
 
 - name: Henry Hao Tang
-  job: 
+  job: FXPAL
   email: haotang2@uiuc.edu
   url: http://www.ifp.illinois.edu/~haotang2/index.html
 
@@ -39,14 +39,9 @@
   url: http://www.ifp.illinois.edu/~hning2/
 
 - name: Jianchao Yang
-  job: Adobe 
-  email: jiayang@adobe.com
+  job: Snapchat
+  email: 
   url: http://www.ifp.illinois.edu/~jyang29/
-
-- name: Jiebo Luo
-  job: Unversity of Rochester
-  email: jluo@cs.rochester.edu
-  url: http://www.cs.rochester.edu/u/jluo/
 
 - name: Jilin Tu
   job: General Electric
@@ -59,7 +54,7 @@
   url: http://www.ifp.illinois.edu/~jy-lin/
 
 - name: Liangliang Cao
-  job: IBM 
+  job: Yahoo
   email: liangliang.cao@gmail.com
   url: http://www.ifp.illinois.edu/~cao4/
 
@@ -114,7 +109,7 @@
   url: http://www.ifp.illinois.edu/~vuongle2/
 
 - name: Xiang Sean Zhou
-  job: 
+  job: Siemens
   email: 
   url: http://www.ifp.illinois.edu/~xzhou2/
 
@@ -137,3 +132,133 @@
   job: Google
   email: 
   url:
+
+- name: Dennis Lin
+  job: Personify
+  email: 
+  url: http://www.ifp.illinois.edu/~djlin/
+
+- name: Mert Dikmen
+  job: Goldman Sachs
+  email: mertdikmen@gmail.com
+  url: 
+
+- name: Charlie Dagli
+  job: MIT Lincoln Labs
+  email: dagli@ll.mit.edu
+  url: https://www.ll.mit.edu/mission/cybersec/HLT/biographies/dagli-bio.html
+
+- name: Yun Raymond Fu
+  job: Northeastern
+  email: yunfu@ece.neu.edu
+  url: http://www1.ece.neu.edu/~yunfu/
+
+- name: Usman Tariq
+  job: American University of Sharjah
+  email: usman.tariq@gmail.com
+  url: 
+
+- name: Shen Fu Edmond Tsai
+  job: Google
+  email: parity@gmail.com
+  url: 
+
+- name: Min-Hsuan Tsai
+  job: Google
+  email: mtsai2.uiuc@gmail.com
+  url: 
+
+- name: Xi Zhou
+  job: CIGIT
+  email: zhouxi127@gmail.com
+  url:
+
+- name: Kai-Hsiang Sean Lin
+  job: Industrial Technology Research Institute
+  email: 
+  url: 
+
+- name: Steven Blostein
+  job: 
+  email: 
+  url: 
+
+- name: Homer Chen
+  job: 
+  email: 
+  url: 
+
+- name: Lawrence Chen
+  job: 
+  email: 
+  url: 
+
+- name: Pengyu Hong
+  job: 
+  email: 
+  url: 
+
+- name: Ricardo Lopez
+  job: 
+  email: 
+  url: 
+
+- name: Milind Naphade
+  job: 
+  email: 
+  url: 
+
+- name: Thang Nguyen
+  job: 
+  email: 
+  url: 
+
+- name: Huazhong Ning
+  job: 
+  email: 
+  url: 
+
+- name: Kannappan Palaniappan
+  job: 
+  email: 
+  url: 
+
+- name: Vladimir Pavlovic
+  job: 
+  email: 
+  url: 
+
+- name: Atulya Velivelli
+  job: 
+  email: 
+  url: 
+
+- name: Juyang Weng
+  job: 
+  email: 
+  url: 
+
+- name: Mithun Das Gupta
+  job: Ricoh
+  email: mithundasgupta@yahoo.com
+  url: http://www.ifp.illinois.edu/~mdgupta/
+
+- name: Yong Rui
+  job: Microsoft
+  email: yongrui@microsoft.com
+  url: http://research.microsoft.com/en-us/um/people/yongrui/
+
+- name: Minqiang Xu
+  job: Alibaba
+  email: 
+  url: https://www.linkedin.com/pub/minqiang-xu/1a/48/744
+
+- name: Shuicheng Simon Yan
+  job: NUS
+  email: 
+  url: http://www.ece.nus.edu.sg/stfpage/eleyans/
+
+- name: Zhihong John Zeng
+  job: 
+  email: 
+  url: http://www.ifp.illinois.edu/~zhzeng/

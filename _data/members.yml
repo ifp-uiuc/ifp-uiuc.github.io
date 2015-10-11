@@ -1,9 +1,9 @@
 - name: Shiyu Chang
-  image: default.gif
+  image: shiyu.jpg
   text:
   social:
     - title: envelope #use for email address
-      url: mailto:name@domain.com
+      url: mailto:chang87@illinois.edu
     - title: link
       url: http://google.com/
 
@@ -17,11 +17,11 @@
       url: http://google.com/
 
 - name: Wei Han
-  image: default.gif
+  image: wei.jpg
   text:
   social:
     - title: envelope #use for email address
-      url: mailto:name@domain.com
+      url: mailto:weihan3@illinois.edu
     - title: link
       url: http://google.com/
 
@@ -44,22 +44,22 @@
       url: http://google.com/
 
 - name: Xianming Liu
-  image: default.gif
+  image: xianming.jpg
   text:
   social:
     - title: envelope #use for email address
-      url: mailto:name@domain.com
+      url: mailto:xliu102@illinois.edu
     - title: link
-      url: http://google.com/
+      url: http://www.ifp.illinois.edu/~xliu102/
 
 - name: Tom Le Paine
   image: tom.jpg
   text:
   social:
     - title: envelope #use for email address
-      url: mailto:name@domain.com
+      url: mailto:tom.le.paine@gmail.com
     - title: link
-      url: http://google.com/
+      url: http://tomlepaine.github.io/
 
 - name: Honghui Shi
   image: honghui.jpg
@@ -71,7 +71,7 @@
       url: http://google.com/
 
 - name: Jiangping Wang
-  image: default.gif
+  image: jp.jpg
   text:
   social:
     - title: envelope #use for email address
