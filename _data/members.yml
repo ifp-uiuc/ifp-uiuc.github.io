@@ -5,14 +5,14 @@
     - title: envelope #use for email address
       url: mailto:chang87@illinois.edu
     - title: link
-      url: http://google.com/
+      url: http://www.ifp.illinois.edu/~chang87/
 
 - name: Kuangxiao Gu
   image: kevin.jpg
   text:
   social:
     - title: envelope #use for email address
-      url: mailto:name@domain.com
+      url: mailto:kgu3@illinois.edu
     - title: link
       url: http://google.com/
 
@@ -66,7 +66,7 @@
   text:
   social:
     - title: envelope #use for email address
-      url: mailto:name@domain.com
+      url: mailto:hshi10@illinois.edu
     - title: link
       url: http://google.com/
 
@@ -75,7 +75,7 @@
   text:
   social:
     - title: envelope #use for email address
-      url: mailto:name@domain.com
+      url: mailto:jwang63@illinois.edu
     - title: link
       url: http://google.com/
 
@@ -93,7 +93,7 @@
   text:
   social:
     - title: envelope #use for email address
-      url: mailto:name@domain.com
+      url: mailto:ningxu2@illinois.edu
     - title: link
       url: http://google.com/
 
@@ -102,15 +102,15 @@
   text:
   social:
     - title: envelope #use for email address
-      url: mailto:name@domain.com
+      url: mailto:yyang58@illinois.edu
     - title: link
-      url: http://google.com/
+      url: http://www.ifp.illinois.edu/~yyang58/
 
 - name: Zengming Shen
   image: zengming.jpg
   text:
   social:
     - title: envelope #use for email address
-      url: mailto:name@domain.com
+      url: mailto:zshen5@illinois.edu
     - title: link
       url: http://google.com
