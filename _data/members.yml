@@ -39,9 +39,9 @@
   text:
   social:
     - title: envelope #use for email address
-      url: mailto:name@domain.com
+      url: mailto:dingliu2@illinois.edu
     - title: link
-      url: http://google.com/
+      url: http://www.ifp.illinois.edu/~dingliu2/
 
 - name: Xianming Liu
   image: xianming.jpg
