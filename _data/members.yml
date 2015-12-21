@@ -105,3 +105,12 @@
       url: mailto:name@domain.com
     - title: link
       url: http://google.com/
+
+- name: Zengming Shen
+  image: zengming.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:name@domain.com
+    - title: link
+      url: http://google.com
