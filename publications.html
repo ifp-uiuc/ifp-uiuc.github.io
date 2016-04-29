@@ -1,0 +1,14 @@
+---
+layout: projects
+title: Publications
+permalink: /publications/
+---
+
+<div class="container mtb">
+    {% for publications in site.data.publications %}
+        <h4>{{ publications.section }}</h4>
+        {% for article in publications.articles %}
+            <p>{{ article }}</p>
+        {% endfor %}
+    {% endfor %}
+</div><! --/container -->
