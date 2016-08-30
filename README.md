@@ -1,5 +1,5 @@
 # The IFP website, made using Jekyll.
-This site is designed to make it easy to add small updates. If you want to add new students, old students, projects, and publications, it just involves updating the right yaml file, and putting images in the right place.
+This site is designed to make it easy to add small updates. If you want to add new memebers, old members, projects, and publications, it just involves updating the right yaml file, and putting images in the right directory.
 
 If you want to make larger changes to the site, it will require more work.
 
