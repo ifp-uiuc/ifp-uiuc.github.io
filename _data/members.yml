@@ -89,7 +89,7 @@
       url: http://www.atlaswang.com
 
 - name: Ning Xu
-  image: default.gif
+  image: ning.jpg
   text:
   social:
     - title: envelope #use for email address
@@ -114,3 +114,40 @@
       url: mailto:zshen5@illinois.edu
     - title: link
       url: http://google.com
+
+- name: Joseph Fan
+  image: default.gif
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:yuchenf4@illinois.edu
+    - title: link
+      url: http://google.com
+
+- name: Jay Yu
+  image: jay.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:jhyu.me@gmail.com
+    - title: link
+      url: http://google.com
+
+
+- name: Hank Yu
+  image: hank.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:hanchao2@illinois.edu
+    - title: link
+      url: http://google.com
+
+- name: Hayden Yu
+  image: hayden.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:haichao3@illinois.edu
+    - title: link
+      url: http://haichaoyu.com/
