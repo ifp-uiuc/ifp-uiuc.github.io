@@ -44,7 +44,7 @@ To add a new member, edit `./_data/members.yml`. Add a new entry at the end of t
 
 Then move the picture into `./assets/img/members`.
 
-When you are done: add, commit, and push the changes.
+When you are done, push the changes.
 
 ### Past Members
 To add a past memeber, edit `./_data/past_members.yml`. Add a new entry at the end of the file in the form:
@@ -56,7 +56,7 @@ To add a past memeber, edit `./_data/past_members.yml`. Add a new entry at the e
   url: http://www.ifp.illinois.edu/~ashutosh/
 ```
 
-When you are done: add, commit, and push the changes.
+When you are done, push the changes.
 
 
 ### Projects
@@ -70,7 +70,7 @@ To add a new project, edit `./_data/projects.yml`. Add a new entry at the end of
 
 Then move the picture into `./assets/img/projects`.
 
-When you are done: add, commit, and push the changes.
+When you are done, push the changes.
 
 ### Publications
 To add a publication, edit `./data/publications.yml`. Find the appropriate section (e.g. Books, Book Chapters, Journal Papers, etc), and add a new line under articles. For example:
@@ -79,4 +79,4 @@ To add a publication, edit `./data/publications.yml`. Find the appropriate secti
   - "A. Author, T. Huang, Paper Title, Conference Name, 2016."
 ```
 
-When you are done: add, commit, and push the changes.
+When you are done, push the changes.
