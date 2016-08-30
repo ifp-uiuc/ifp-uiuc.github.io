@@ -1,0 +1,8 @@
+- name: Xinchao
+  image: xinchao.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:xinchao.w@gmail.com
+    - title: link
+      url: http://google.com/
