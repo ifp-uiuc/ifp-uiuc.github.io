@@ -4,6 +4,7 @@ This site is designed to make it easy to add small updates, like adding:
 - old members
 - projects
 - publications
+
 It just involves updating the right yaml file, and putting images in the right directory.
 
 If you want to make larger changes to the site, like adding a new type of page, it will require more work.
