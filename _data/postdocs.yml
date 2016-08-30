@@ -1,5 +1,5 @@
 - name: Xinchao
-  image: xinchao.jpg
+  image: xinchao.png
   text:
   social:
     - title: envelope #use for email address
