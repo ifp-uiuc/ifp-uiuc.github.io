@@ -1,9 +1,14 @@
 # The IFP website, made using Jekyll.
-This site is designed to make it easy to add small updates. If you want to add new memebers, old members, projects, and publications, it just involves updating the right yaml file, and putting images in the right directory.
+This site is designed to make it easy to add small updates, like adding:
+- new memebers
+- old members
+- projects
+- publications
+It just involves updating the right yaml file, and putting images in the right directory.
 
-If you want to make larger changes to the site, it will require more work.
+If you want to make larger changes to the site, like adding a new type of page, it will require more work.
 
-# Updating the site
+# Updating the site (using git)
 To update the site, you will need some familiarity with git. If you don't, brush up first.
 
 First, you need to clone it:
