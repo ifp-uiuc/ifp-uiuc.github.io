@@ -8,6 +8,10 @@
     authors: 'Zhaowen Wang, Jianchao Yang, Haichao Zhang, Zhangyang Wang, Yingzhen Yang, Ding Liu, Thomas S Huang.'
     venue: 'World Scientific Publishing'
     year: '2016'
+  - title: "Face Processing and Applications to Distance Learning"
+    authors: 'Vuong Le, Pooya Khorrami, Usman Tariq, Hao Tang, Thomas S. Huang'
+    venue: 'World Scientific Publishing'
+    year: '2016'
 - section: Book Chapters
   articles:
   - title: "Data Classification: Algorithms and Applications."
@@ -48,6 +52,10 @@
     authors: 'Shiyu Chang, Guo-Jun Qi, Yingzhen Yang, Charu C. Aggarwal, Jiayu Zhou, Meng Wang, Thomas S. Huang.'
     venue: 'Knowledge and Information Systems'
     year: '2015'
+  - title: "Robust Single Image Super-Resolution via Deep Networks With Sparse Prior."
+    authors: 'Liu D, Wang Z, Wen B, Yang J, Han W, Huang TS.'
+    venue: 'IEEE Transactions on Image Processing. vol. 25, no. 7'
+    year: '2016'
 - section: Conference Papers
   articles:
   - title: "Studying Very Low Resolution Recognition Using Deep Networks"
@@ -194,3 +202,29 @@
     authors: 'Yingzhen Yang, Feng Liang, Thomas S. Huang.'
     venue: 'International Conference on Acoustics, Speech, and Signal Processing (ICASSP)'
     year: '2014'
+  - title: "UnitBox: An Advanced Object Detection Network"
+    authors: 'Jiahui Yu, Yuning Jiang, Zhangyang Wang, Zhimin Cao, Thomas Huang'
+    venue: 'ACM MM'
+    year: '2016'
+  - title: "How Deep Neural Networks Can Help Emotion Recognition on Video Data."
+    authors: 'Pooya Khorrami, Tom Le Paine, Kevin Brady, Charlie Dagli, Thomas S. Huang'
+    venue: 'IEEE International Conference on Image Processing (ICIP)'
+    year: '2016'
+  - title: "Learning a Mixture of Deep Networks for Single Image Super-Resolution."
+    authors: 'Liu, D., Wang, Z., Nasrabadi, N., and Huang, T.S.'
+    venue: 'Asian Conference on Computer Vision (ACCV)'
+    year: '2016'
+  - title: "Stacked Approximated Regression Machine: A Simple Deep Learning Approach"
+    authors: 'Z. Wang, S. Chang, Q. Ling, S. Huang, X. Hu, H. Shi and T. Huang'
+    venue: 'Advances in Neural Information Processing Systems (NIPS)'
+    year: '2016'
+  - title: "Learning A Deep ℓ∞ Encoder for Hashing"
+    authors: 'Z. Wang, Y. Yang, S. Chang, Q. Ling, and T. Huang'
+    venue: 'International Joint Conferences on Artificial Intelligence (IJCAI)'
+    year: '2016'
+- section: Technical Reports
+  articles:
+  - title: "Seq-NMS for Video Object Detection"
+    authors: 'Wei Han, Pooya Khorrami, Tom Le Paine, Prajit Ramachandran, Mohammad Babaeizadeh, Honghui Shi, Jianan Li, Shuicheng Yan, Thomas S. Huang'
+    venue: 'Technical report for 3rd place submission to Imagenet Large-Scale Object Detection in Video Challenge.'
+    year: '2016'
