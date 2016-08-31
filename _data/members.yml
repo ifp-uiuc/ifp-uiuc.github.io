@@ -14,7 +14,7 @@
     - title: envelope #use for email address
       url: mailto:kgu3@illinois.edu
     - title: link
-      url: http://google.com/
+      url: https://www.linkedin.com/in/kuangxiao-gu-b635027a
 
 - name: Wei Han
   image: wei.jpg
@@ -23,7 +23,7 @@
     - title: envelope #use for email address
       url: mailto:weihan3@illinois.edu
     - title: link
-      url: http://google.com/
+      url: http://beckman.illinois.edu/directory/person/weihan3
 
 - name: Pooya Khorrami  
   image: pooya.jpg
@@ -68,7 +68,7 @@
     - title: envelope #use for email address
       url: mailto:hshi10@illinois.edu
     - title: link
-      url: http://google.com/
+      url: https://www.linkedin.com/in/honghui-shi-38162257
 
 - name: Jiangping Wang
   image: jp.jpg
@@ -77,7 +77,7 @@
     - title: envelope #use for email address
       url: mailto:jwang63@illinois.edu
     - title: link
-      url: http://google.com/
+      url: https://www.linkedin.com/in/jiangping-wang-81834918
 
 - name: Zhangyang Wang
   image: atlas.jpg
@@ -95,7 +95,7 @@
     - title: envelope #use for email address
       url: mailto:ningxu2@illinois.edu
     - title: link
-      url: http://google.com/
+      url: https://www.linkedin.com/in/ning-xu-81365438
 
 - name: Yingzhen Yang
   image: yingzhen.jpg
@@ -113,7 +113,7 @@
     - title: envelope #use for email address
       url: mailto:zshen5@illinois.edu
     - title: link
-      url: http://google.com
+      url: https://www.linkedin.com/in/zengming-zack-shen-b7921147
 
 - name: Joseph Fan
   image: default.gif
@@ -131,7 +131,7 @@
     - title: envelope #use for email address
       url: mailto:jhyu.me@gmail.com
     - title: link
-      url: http://google.com
+      url: http://beckman.illinois.edu/directory/person/jyu79
 
 
 - name: Hank Yu
@@ -141,7 +141,7 @@
     - title: envelope #use for email address
       url: mailto:hanchao2@illinois.edu
     - title: link
-      url: http://google.com
+      url: http://beckman.illinois.edu/directory/person/hanchao2
 
 - name: Hayden Yu
   image: hayden.jpg
