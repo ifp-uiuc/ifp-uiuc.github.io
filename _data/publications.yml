@@ -222,6 +222,10 @@
     authors: 'Z. Wang, Y. Yang, S. Chang, Q. Ling, and T. Huang'
     venue: 'International Joint Conferences on Artificial Intelligence (IJCAI)'
     year: '2016'
+  - title: "GPU asynchronous stochastic gradient descent to speed up neural network training."
+    authors: 'Tom Le Paine, Hailin Jin, Jianchao Yang, Zhe Lin, Thomas Huang'
+    venue: 'IEEE International Conference on Learning Representations (ICLR) Workshop'
+    year: '2014'
 - section: Technical Reports
   articles:
   - title: "Seq-NMS for Video Object Detection"
