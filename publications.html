@@ -6,9 +6,18 @@ permalink: /publications/
 
 <div class="container mtb">
     {% for publications in site.data.publications %}
-        <h4>{{ publications.section }}</h4>
-        {% for article in publications.articles | | group_by:"year" %}
-            <p>{{ article.citation }}</p>
+        <h3>{{ publications.section }}</h3>
+        {% assign articles_by_year = publications.articles | group_by:"year" %}
+        {% for year in articles_by_year %}
+            <h4>{{ year.name }}</h4>
+            {% assign articles_sorted = year.items | sort:"title" %}
+            {% for article in articles_sorted %}
+                <p>
+                    <a href="">{{ article.title }}</a><br>
+                    {{ article.authors }}<br>
+                    {{ article.venue }} {{ article.year }}.
+                </p>
+            {% endfor %}
         {% endfor %}
     {% endfor %}
 </div><! --/container -->
