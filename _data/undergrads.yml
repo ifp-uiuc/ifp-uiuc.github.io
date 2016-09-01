@@ -6,3 +6,12 @@
       url: mailto:bcheng9@illinois.edu
     - title: link
       url: http://google.com/
+
+- name: Prajit Ramachandran
+  image: prajit
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:prajitram@gmail.com
+    - title: link
+      url: https://www.linkedin.com/in/prajitram
