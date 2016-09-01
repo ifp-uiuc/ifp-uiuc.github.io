@@ -79,10 +79,13 @@ Then move the picture into `./assets/img/projects`.
 When you are done, push the changes.
 
 ### Publications
-To add a publication, edit `./data/publications.yml`. Find the appropriate section (e.g. Books, Book Chapters, Journal Papers, etc), and add a new line under articles. For example:
+To add a publication, edit `./data/publications.yml`. Find the appropriate section (e.g. Books, Book Chapters, Journal Papers, etc), and add a new entry under articles. For example:
 
 ```
-  - "A. Author, T. Huang, Paper Title, Conference Name, 2016."
+  - title: "Paper Title."
+    authors: 'A. Author, T. Huang.'
+    venue: 'Conference name'
+    year: '2016'
 ```
 
 When you are done, push the changes.
