@@ -1,6 +1,6 @@
 # The IFP website, made using Jekyll.
 This site is designed to make it easy to add small updates, like adding:
-- new memebers
+- new members
 - old members
 - projects
 - publications
@@ -34,7 +34,7 @@ git push origin master
 
 ## Small updates
 
-### Memebers
+### Members
 To add a new member, edit `./_data/members.yml`. Add a new entry at the end of the file in the form:
 
 ```
@@ -53,7 +53,7 @@ Then move the picture into `./assets/img/members`.
 When you are done, push the changes.
 
 ### Past Members
-To add a past memeber, edit `./_data/past_members.yml`. Add a new entry at the end of the file in the form:
+To add a past member, edit `./_data/past_members.yml`. Add a new entry at the end of the file in the form:
 
 ```
 - name: Ashutosh Garg
