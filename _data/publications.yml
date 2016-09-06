@@ -4,12 +4,9 @@
     authors: 'Vuong Le, Pooya Khorrami, Usman Tariq, Hao Tang, Thomas S. Huang.'
     venue: 'World Scientific Publishing'
     year: '2016'
+    link: 'http://www.worldscientific.com/worldscibooks/10.1142/9866'
   - title: "Sparse Coding and its Applications in Computer Vision."
     authors: 'Zhaowen Wang, Jianchao Yang, Haichao Zhang, Zhangyang Wang, Yingzhen Yang, Ding Liu, Thomas S Huang.'
-    venue: 'World Scientific Publishing'
-    year: '2016'
-  - title: "Face Processing and Applications to Distance Learning"
-    authors: 'Vuong Le, Pooya Khorrami, Usman Tariq, Hao Tang, Thomas S. Huang'
     venue: 'World Scientific Publishing'
     year: '2016'
 - section: Book Chapters
@@ -138,14 +135,17 @@
     authors: 'Kai-Hsiang Lin, Pooya Khorrami, Jiangping Wang, Mark Hasegawa-Johnson, and Thomas S. Huang'
     venue: 'IEEE International Conference on Image Processing (ICIP)'
     year: '2014'
+    link: 'http://www.isle.illinois.edu/sst/pubs/2014/lin14icip.pdf'
   - title: "An Analysis of Unsupervised Pre-training in Light of Recent Advances"
     authors: 'Tom Le Paine, Pooya Khorrami, Wei Han, and Thomas S. Huang'
     venue: 'IEEE International Conference on Learning Representations (ICLR) Workshop'
     year: '2015'
+    link: 'http://arxiv.org/pdf/1412.6597v4.pdf'
   - title: "Do Deep Neural Networks Learn Facial Action Units When Doing Expression Recognition?"
     authors: 'Pooya Khorrami, Tom Le Paine, and Thomas Huang'
     venue: 'IEEE International Conference on Computer Vision Workshops (ICCVW)'
     year: '2015'
+    link: 'http://www.cv-foundation.org//openaccess/content_iccv_2015_workshops/w2/papers/Khorrami_Do_Deep_Neural_ICCV_2015_paper.pdf'
   - title: "Look and think twice: Capturing top-down visual attention with feedback convolutional neural networks."
     authors: 'Cao, C., Liu, X., Yang, Y., Yu, Y., Wang, J., Wang, Z., ... , Ramanan, D., and Huang, T. S.'
     venue: 'IEEE International Conference on Computer Vision (ICCV)'
@@ -210,6 +210,7 @@
     authors: 'Pooya Khorrami, Tom Le Paine, Kevin Brady, Charlie Dagli, Thomas S. Huang'
     venue: 'IEEE International Conference on Image Processing (ICIP)'
     year: '2016'
+    link: 'http://arxiv.org/pdf/1602.07377v3.pdf'
   - title: "Learning a Mixture of Deep Networks for Single Image Super-Resolution."
     authors: 'Liu, D., Wang, Z., Nasrabadi, N., and Huang, T.S.'
     venue: 'Asian Conference on Computer Vision (ACCV)'
@@ -232,3 +233,4 @@
     authors: 'Wei Han, Pooya Khorrami, Tom Le Paine, Prajit Ramachandran, Mohammad Babaeizadeh, Honghui Shi, Jianan Li, Shuicheng Yan, Thomas S. Huang'
     venue: 'Technical report for 3rd place submission to Imagenet Large-Scale Object Detection in Video Challenge.'
     year: '2016'
+    link: 'http://arxiv.org/pdf/1602.08465.pdf'

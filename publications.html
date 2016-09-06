@@ -12,8 +12,12 @@ permalink: /publications/
             <h4>{{ year.name }}</h4>
             {% assign articles_sorted = year.items | sort:"title" %}
             {% for article in articles_sorted %}
+                {% assign article_link = "" %}
+                {% if article.link  %}
+                    {% assign article_link = article.link %}
+                {% endif %}
                 <p>
-                    <a href="">{{ article.title }}</a><br>
+                    <a href={{ article_link }}>{{ article.title }}</a><br>
                     {{ article.authors }}<br>
                     {{ article.venue }} {{ article.year }}.
                 </p>
