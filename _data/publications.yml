@@ -55,6 +55,11 @@
     year: '2016'
 - section: Conference Papers
   articles:
+  - title: "Multi-Modal Audio, Video and Physiological Sensor Learning for Continuous Emotion Prediction"
+    authors: 'Kevin Brady, Youngjune Gwon, Pooya Khorrami, Elizabeth Godoy, William Campbell, Charlie Dagli, Thomas S. Huang'
+    venue: 'International Workshop on Audio/Visual Emotion Challenge (AVEC)'
+    year: '2016'
+    link: 'http://dl.acm.org/ft_gateway.cfm?id=2988264&ftid=1800783&dwn=1&CFID=866118300&CFTOKEN=15774136'
   - title: "Studying Very Low Resolution Recognition Using Deep Networks"
     authors: 'Z. Wang, S. Chang, Y. Yang, D. Liu and T. Huang'
     venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR)'
@@ -145,7 +150,7 @@
     authors: 'Pooya Khorrami, Tom Le Paine, and Thomas Huang'
     venue: 'IEEE International Conference on Computer Vision Workshops (ICCVW)'
     year: '2015'
-    link: 'http://www.cv-foundation.org//openaccess/content_iccv_2015_workshops/w2/papers/Khorrami_Do_Deep_Neural_ICCV_2015_paper.pdf'
+    link: 'https://arxiv.org/pdf/1510.02969v2.pdf'
   - title: "Look and think twice: Capturing top-down visual attention with feedback convolutional neural networks."
     authors: 'Cao, C., Liu, X., Yang, Y., Yu, Y., Wang, J., Wang, Z., ... , Ramanan, D., and Huang, T. S.'
     venue: 'IEEE International Conference on Computer Vision (ICCV)'
