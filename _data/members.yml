@@ -143,11 +143,11 @@
     - title: link
       url: http://beckman.illinois.edu/directory/person/hanchao2
 
-- name: Hayden Yu
+- name: Haichao Yu
   image: hayden.jpg
   text:
   social:
     - title: envelope #use for email address
-      url: mailto:haichao3@illinois.edu
+      url: mailto:haichaoyu3@gmail.com
     - title: link
       url: http://haichaoyu.com/
