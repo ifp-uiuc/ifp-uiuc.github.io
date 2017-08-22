@@ -15,3 +15,12 @@
       url: mailto:prajitram@gmail.com
     - title: link
       url: https://www.linkedin.com/in/prajitram
+
+- name: Zhichao Liu
+  image: lzc.png
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:liuzceecs@gmail.com
+    - title: link
+      url: https://www.liuzceecs.com/
