@@ -57,7 +57,7 @@
   
 - name: Shiyu Chang
   image: shiyu.jpg
-  text: IBM Watson Research
+  text: IBM Watson Research Center
   social:
     - title: envelope #use for email address
       url: mailto:chang87@illinois.edu
