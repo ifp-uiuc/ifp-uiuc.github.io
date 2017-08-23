@@ -1,7 +1,7 @@
 
 - name: Pooya Khorrami 
   image: pooya.jpg
-  text: 
+  text: MIT Lincoln Lab
   social:
     - title: envelope #use for email address
       url: mailto:pkhorra2@illinois.edu
@@ -11,7 +11,7 @@
       
 - name: Tom Le Paine
   image: tom.jpg
-  text:
+  text: DeepMind
   social:
     - title: envelope #use for email address
       url: mailto:tom.le.paine@gmail.com
@@ -20,7 +20,7 @@
       
 - name: Prajit Ramachandran
   image: prajit.png
-  text:
+  text: Google Brain
   social:
     - title: envelope #use for email address
       url: mailto:prajitram@gmail.com
@@ -29,7 +29,7 @@
 
 - name: Jiangping Wang
   image: jp.jpg
-  text:
+  text: Siemens
   social:
     - title: envelope #use for email address
       url: mailto:jwang63@illinois.edu
@@ -38,7 +38,7 @@
       
 - name: Yingzhen Yang
   image: yingzhen.png
-  text:
+  text: Snap. Inc.
   social:
     - title: envelope #use for email address
       url: mailto:yyang58@illinois.edu
@@ -47,7 +47,7 @@
       
 - name: Zhangyang Wang
   image: atlas.jpg
-  text:
+  text: Texas A&M University
   social:
     - title: envelope #use for email address
       url: mailto:masterwant@gmail.com
@@ -57,7 +57,7 @@
   
 - name: Shiyu Chang
   image: shiyu.jpg
-  text: IBM Watson Research Center
+  text: IBM Watson Research
   social:
     - title: envelope #use for email address
       url: mailto:chang87@illinois.edu
@@ -66,7 +66,7 @@
       
 - name: Xianming Liu
   image: xianming.jpg
-  text:
+  text: Facebook Research
   social:
     - title: envelope #use for email address
       url: mailto:xliu102@illinois.edu
