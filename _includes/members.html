@@ -1,10 +1,11 @@
 <div class="container mtb">
     <div class="row centered">
-        <h3 class="mb">Graduate Students</h3>
+        <h3 class="mb">Current Members</h3>
         
-        {% assign sorted_members = site.data.members | sort:"name" %}
-
-        {% for member in sorted_members %}
+        <!-- {% assign sorted_members = site.data.members | sort:"name" %} -->
+        <!-- {% for member in sorted_members %} -->
+      
+        {% for member in site.data.members %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
             <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.image }}" alt="">
