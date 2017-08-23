@@ -29,12 +29,12 @@
   url: http://www.ifp.illinois.edu/~hzhou/
 
 - name: Henry Hao Tang
-  job: Linkedin
+  job: Apple
   email: haotang2@uiuc.edu
   url: http://www.ifp.illinois.edu/~haotang2/index.html
 
 - name: Huazhong Ning
-  job: Google
+  job: Facebook
   email: ninghz@gmail.com
   url: http://www.ifp.illinois.edu/~hning2/
 
@@ -54,7 +54,7 @@
   url: http://www.ifp.illinois.edu/~jy-lin/
 
 - name: Liangliang Cao
-  job: Yahoo
+  job: startup
   email: liangliang.cao@gmail.com
   url: http://www.ifp.illinois.edu/~cao4/
 
@@ -99,7 +99,7 @@
   url: http://www.ifp.illinois.edu/~tchen5/AboutMe.html
 
 - name: Tony Xu Han
-  job: Unversity of Missouri-Columbia
+  job: Jingchi
   email: hantx@missouri.edu
   url: http://web.missouri.edu/~hantx/
 
@@ -204,16 +204,11 @@
   url: 
 
 - name: Milind Naphade
-  job: Cisco
+  job: Nvidia
   email: 
   url: 
 
 - name: Thang Nguyen
-  job: 
-  email: 
-  url: 
-
-- name: Huazhong Ning
   job: 
   email: 
   url: 
@@ -244,7 +239,7 @@
   url: http://www.ifp.illinois.edu/~mdgupta/
 
 - name: Yong Rui
-  job: Microsoft
+  job: Lenovo
   email: yongrui@microsoft.com
   url: http://research.microsoft.com/en-us/um/people/yongrui/
 
@@ -254,7 +249,7 @@
   url: https://www.linkedin.com/pub/minqiang-xu/1a/48/744
 
 - name: Shuicheng Simon Yan
-  job: NUS
+  job: NUS/Qihoo 360
   email: 
   url: http://www.ece.nus.edu.sg/stfpage/eleyans/
 
@@ -280,11 +275,6 @@
 
 - name: Amit Sethi
   job: Indian Institute of Technology Guwahati
-  email:
-  url:
-
-- name: Anthony Edmund Filip
-  job: MIT Lincoln Lab
   email:
   url:
 
