@@ -1,1 +1,64 @@
 
+- name: Pooya Khorrami 
+  image: pooya.jpg
+  text: 
+  social:
+    - title: envelope #use for email address
+      url: mailto:pkhorra2@illinois.edu
+    - title: link
+      url: https://sites.google.com/site/pkhorra2/
+      
+      
+- name: Tom Le Paine
+  image: tom.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:tom.le.paine@gmail.com
+    - title: link
+      url: http://tomlepaine.github.io/
+      
+- name: Jiangping Wang
+  image: jp.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:jwang63@illinois.edu
+    - title: link
+      url: https://www.linkedin.com/in/jiangping-wang-81834918
+
+- name: Zhangyang Wang
+  image: atlas.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:masterwant@gmail.com
+    - title: link
+      url: http://www.atlaswang.com
+      
+- name: Yingzhen Yang
+  image: yingzhen.png
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:yyang58@illinois.edu
+    - title: link
+      url: http://www.ifp.illinois.edu/~yyang58/
+      
+- name: Shiyu Chang
+  image: shiyu.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:chang87@illinois.edu
+    - title: link
+      url: http://www.ifp.illinois.edu/~chang87/
+      
+- name: Xianming Liu
+  image: xianming.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:xliu102@illinois.edu
+    - title: link
+      url: http://www.ifp.illinois.edu/~xliu102/
