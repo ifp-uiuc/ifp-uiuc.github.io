@@ -59,7 +59,7 @@
 
 - name: Kuangxiao Gu
   image: kevin.jpg
-  text: PhD student, ECE, UIUC
+  text: PhD candidate, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:kgu3@illinois.edu
@@ -145,7 +145,7 @@
 ###-------------Visitors---------------------
 - name: Zhichao Liu
   image: lzc.jpg
-  text: visiting scholar, EECS, Peking University
+  text: Visiting scholar, EECS, Peking University
   social:
     - title: envelope #use for email address
       url: mailto:liuzceecs@gmail.com
@@ -154,7 +154,7 @@
       
 - name: Zhiqiang Shen
   image: zhiqiang.jpg
-  text: visiting scholar, CS, Fudan University
+  text: Visiting scholar, CS, Fudan University
   social:
     - title: envelope #use for email address
       url: mailto:zhiqiangshen13@fudan.edu.cn
