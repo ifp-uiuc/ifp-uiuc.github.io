@@ -1,21 +1,3 @@
-- name: Shiyu Chang
-  image: shiyu.jpg
-  text:
-  social:
-    - title: envelope #use for email address
-      url: mailto:chang87@illinois.edu
-    - title: link
-      url: http://www.ifp.illinois.edu/~chang87/
-
-- name: Kuangxiao Gu
-  image: kevin.jpg
-  text:
-  social:
-    - title: envelope #use for email address
-      url: mailto:kgu3@illinois.edu
-    - title: link
-      url: https://www.linkedin.com/in/kuangxiao-gu-b635027a
-
 - name: Wei Han
   image: wei.jpg
   text:
@@ -24,69 +6,6 @@
       url: mailto:weihan3@illinois.edu
     - title: link
       url: http://beckman.illinois.edu/directory/person/weihan3
-
-- name: Pooya Khorrami  
-  image: pooya.jpg
-  text: 
-  social:
-    - title: envelope #use for email address
-      url: mailto:pkhorra2@illinois.edu
-    - title: link
-      url: https://sites.google.com/site/pkhorra2/
-
-- name: Ding Liu
-  image: ding.jpg
-  text:
-  social:
-    - title: envelope #use for email address
-      url: mailto:dingliu2@illinois.edu
-    - title: link
-      url: http://www.ifp.illinois.edu/~dingliu2/
-
-- name: Xianming Liu
-  image: xianming.jpg
-  text:
-  social:
-    - title: envelope #use for email address
-      url: mailto:xliu102@illinois.edu
-    - title: link
-      url: http://www.ifp.illinois.edu/~xliu102/
-
-- name: Tom Le Paine
-  image: tom.jpg
-  text:
-  social:
-    - title: envelope #use for email address
-      url: mailto:tom.le.paine@gmail.com
-    - title: link
-      url: http://tomlepaine.github.io/
-
-- name: Honghui Shi
-  image: honghui.jpg
-  text:
-  social:
-    - title: envelope #use for email address
-      url: mailto:hshi10@illinois.edu
-    - title: link
-      url: https://www.linkedin.com/in/honghui-shi-38162257
-
-- name: Jiangping Wang
-  image: jp.jpg
-  text:
-  social:
-    - title: envelope #use for email address
-      url: mailto:jwang63@illinois.edu
-    - title: link
-      url: https://www.linkedin.com/in/jiangping-wang-81834918
-
-- name: Zhangyang Wang
-  image: atlas.jpg
-  text:
-  social:
-    - title: envelope #use for email address
-      url: mailto:masterwant@gmail.com
-    - title: link
-      url: http://www.atlaswang.com
 
 - name: Ning Xu
   image: ning.jpg
@@ -97,14 +16,34 @@
     - title: link
       url: https://www.linkedin.com/in/ning-xu-81365438
 
-- name: Yingzhen Yang
-  image: yingzhen.png
+- name: Honghui Shi
+  image: honghui.jpg
   text:
   social:
     - title: envelope #use for email address
-      url: mailto:yyang58@illinois.edu
+      url: mailto:hshi10@illinois.edu
     - title: link
-      url: http://www.ifp.illinois.edu/~yyang58/
+      url: https://www.linkedin.com/in/honghui-shi-38162257
+
+
+- name: Ding Liu
+  image: ding.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:dingliu2@illinois.edu
+    - title: link
+      url: http://www.ifp.illinois.edu/~dingliu2/
+
+- name: Kuangxiao Gu
+  image: kevin.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:kgu3@illinois.edu
+    - title: link
+      url: https://www.linkedin.com/in/kuangxiao-gu-b635027a
+
 
 - name: Zengming Shen
   image: zengming.jpg
@@ -123,7 +62,7 @@
       url: mailto:yuchenf4@illinois.edu
     - title: link
       url: http://google.com
-
+      
 - name: Jiahui Yu
   image: jay.jpg
   text:
@@ -133,6 +72,14 @@
     - title: link
       url: http://beckman.illinois.edu/directory/person/jyu79
 
+- name: Haichao Yu
+  image: hayden.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:haichaoyu3@gmail.com
+    - title: link
+      url: http://haichaoyu.com/
 
 - name: Hank Yu
   image: hank.jpg
@@ -142,12 +89,3 @@
       url: mailto:hanchao2@illinois.edu
     - title: link
       url: http://beckman.illinois.edu/directory/person/hanchao2
-
-- name: Haichao Yu
-  image: hayden.jpg
-  text:
-  social:
-    - title: envelope #use for email address
-      url: mailto:haichaoyu3@gmail.com
-    - title: link
-      url: http://haichaoyu.com/
