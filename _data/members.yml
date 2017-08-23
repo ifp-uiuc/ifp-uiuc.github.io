@@ -1,3 +1,5 @@
+###-------------Postdocs---------------------
+
 - name: Xinchao Wang
   image: xinchao.png
   text:
@@ -6,6 +8,17 @@
       url: mailto:xinchao.w@gmail.com
     - title: link
       url: https://sites.google.com/site/sitexinchaowang/
+      
+- name: Yunchao Wei
+  image: yunchao.png
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:wychao1987@gmail.com    
+    - title: link
+      url: https://weiyc.github.io/
+      
+###-------------PhD Students---------------------
 
 - name: Wei Han
   image: wei.jpg
@@ -107,9 +120,29 @@
       url: mailto:bcheng9@illinois.edu
     - title: link
       url: http://google.com/
+     
+- name: Yuqian Zhou
+  image: yuqian.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:zhouyuqian133@gmail.com
+    - title: link
+      url: http://ihome.ust.hk/~yzhouas/
+      
+ - name: Yang Fu
+  image: yangfu.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:yangfuwork@gmail.com
+    - title: link
+      url: http://google.com/
+     
       
 ###-------------Undergraduate---------------------
 
+###-------------Visitors---------------------
 - name: Zhichao Liu
   image: lzc.jpg
   text:
@@ -118,3 +151,12 @@
       url: mailto:liuzceecs@gmail.com
     - title: link
       url: https://www.liuzceecs.com/
+      
+- name: Zhiqiang Shen
+  image: zhiqiang.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:zhiqiangshen13@fudan.edu.cn
+    - title: link
+      url: http://www.zhiqiangshen.com/
