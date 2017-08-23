@@ -2,9 +2,9 @@
     <div class="row centered">
         <h3 class="mb">Recent Members</h3>
         
-        {% assign sorted_members = site.data.recent_members | sort:"name" %}
+        {% assign members = site.data.recent_members %}
 
-        {% for member in sorted_members %}
+        {% for member in members %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
             <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.image }}" alt="">
