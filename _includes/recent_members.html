@@ -2,7 +2,7 @@
     <div class="row centered">
         <h3 class="mb">Recent Members</h3>
         
-        {% assign sorted_members = site.data.recent | sort:"name" %}
+        {% assign sorted_members = site.data.recent_members | sort:"name" %}
 
         {% for member in sorted_members %}
         <div class="col-lg-3 col-md-3 col-sm-3">
