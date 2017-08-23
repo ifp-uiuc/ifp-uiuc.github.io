@@ -2,7 +2,7 @@
 
 - name: Xinchao Wang
   image: xinchao.png
-  text: Postdoc
+  text: Postdoc, Beckman
   social:
     - title: envelope #use for email address
       url: mailto:xinchao.w@gmail.com
@@ -11,7 +11,7 @@
       
 - name: Yunchao Wei
   image: yunchao.jpg
-  text: Postdoc
+  text: Postdoc, CSL & Beckman
   social:
     - title: envelope #use for email address
       url: mailto:wychao1987@gmail.com    
@@ -22,7 +22,7 @@
 
 - name: Wei Han
   image: wei.jpg
-  text: PhD candidate
+  text: PhD candidate, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:weihan3@illinois.edu
@@ -31,7 +31,7 @@
 
 - name: Ning Xu
   image: ning.jpg
-  text: PhD candidate
+  text: PhD candidate, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:ningxu2@illinois.edu
@@ -40,7 +40,7 @@
 
 - name: Honghui Shi
   image: honghui.jpg
-  text: PhD candidate
+  text: PhD candidate, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:hshi10@illinois.edu
@@ -50,7 +50,7 @@
 
 - name: Ding Liu
   image: ding.jpg
-  text: PhD candidate
+  text: PhD candidate, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:dingliu2@illinois.edu
@@ -59,7 +59,7 @@
 
 - name: Kuangxiao Gu
   image: kevin.jpg
-  text: PhD student
+  text: PhD student, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:kgu3@illinois.edu
@@ -69,7 +69,7 @@
 
 - name: Zengming Shen
   image: zengming.jpg
-  text: PhD student
+  text: PhD student, NPRE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:zshen5@illinois.edu
@@ -78,7 +78,7 @@
 
 - name: Yuchen Fan
   image: yuchen.jpg
-  text: PhD student
+  text: PhD student, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:yuchenf4@illinois.edu
@@ -87,7 +87,7 @@
       
 - name: Jiahui Yu
   image: jay.jpg
-  text: PhD student
+  text: PhD student, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:hi@jhyu.me
@@ -96,7 +96,7 @@
 
 - name: Haichao Yu
   image: hayden.jpg
-  text: PhD student
+  text: PhD student, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:haichaoyu3@gmail.com
@@ -105,7 +105,7 @@
 
 - name: Hank Yu
   image: hank.jpg
-  text: PhD student
+  text: PhD student, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:hanchao2@illinois.edu
@@ -114,7 +114,7 @@
 
 - name: Bowen Cheng
   image: bowen.jpg
-  text: PhD student
+  text: PhD student, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:bcheng9@illinois.edu
@@ -123,7 +123,7 @@
      
 - name: Yuqian Zhou
   image: yuqian.jpg
-  text: PhD student
+  text: PhD student, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:zhouyuqian133@gmail.com
@@ -132,7 +132,7 @@
 
 - name: Yang Fu
   image: yang.jpg
-  text: PhD student
+  text: PhD student, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:yangfuwork@gmail.com
@@ -145,7 +145,7 @@
 ###-------------Visitors---------------------
 - name: Zhichao Liu
   image: lzc.jpg
-  text: visiting scholar
+  text: visiting scholar, EECS, Peking University
   social:
     - title: envelope #use for email address
       url: mailto:liuzceecs@gmail.com
@@ -154,7 +154,7 @@
       
 - name: Zhiqiang Shen
   image: zhiqiang.jpg
-  text: visiting scholar
+  text: visiting scholar, CS, Fudan University
   social:
     - title: envelope #use for email address
       url: mailto:zhiqiangshen13@fudan.edu.cn
