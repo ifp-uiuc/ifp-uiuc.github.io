@@ -1,8 +1,8 @@
 <div class="container mtb">
     <div class="row centered">
-        <h3 class="mb">Recent Graduated</h3>
+        <h3 class="mb">Recent Members</h3>
         
-        {% assign sorted_members = site.data.postdocs | sort:"name" %}
+        {% assign sorted_members = site.data.recent | sort:"name" %}
 
         {% for member in sorted_members %}
         <div class="col-lg-3 col-md-3 col-sm-3">
