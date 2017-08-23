@@ -18,6 +18,15 @@
     - title: link
       url: http://tomlepaine.github.io/
       
+- name: Prajit Ramachandran
+  image: prajit.png
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:prajitram@gmail.com
+    - title: link
+      url: https://www.linkedin.com/in/prajitram
+
 - name: Jiangping Wang
   image: jp.jpg
   text:
