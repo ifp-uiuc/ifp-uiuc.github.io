@@ -35,15 +35,6 @@
       url: mailto:jwang63@illinois.edu
     - title: link
       url: https://www.linkedin.com/in/jiangping-wang-81834918
-
-- name: Zhangyang Wang
-  image: atlas.jpg
-  text:
-  social:
-    - title: envelope #use for email address
-      url: mailto:masterwant@gmail.com
-    - title: link
-      url: http://www.atlaswang.com
       
 - name: Yingzhen Yang
   image: yingzhen.png
@@ -54,9 +45,19 @@
     - title: link
       url: http://www.ifp.illinois.edu/~yyang58/
       
+- name: Zhangyang Wang
+  image: atlas.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:masterwant@gmail.com
+    - title: link
+      url: http://www.atlaswang.com
+
+  
 - name: Shiyu Chang
   image: shiyu.jpg
-  text:
+  text: IBM Watson Research Center
   social:
     - title: envelope #use for email address
       url: mailto:chang87@illinois.edu
