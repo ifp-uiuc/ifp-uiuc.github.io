@@ -129,7 +129,7 @@
       url: mailto:zhouyuqian133@gmail.com
     - title: link
       url: http://ihome.ust.hk/~yzhouas/
-      
+
 - name: Yang Fu
   image: yangfu.jpg
   text:
@@ -137,7 +137,7 @@
     - title: envelope #use for email address
       url: mailto:yangfuwork@gmail.com
     - title: link
-      url: http://google.com/
+      url: http://google.com
      
       
 ###-------------Undergraduate---------------------
