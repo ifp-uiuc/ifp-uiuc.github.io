@@ -98,3 +98,23 @@
       url: mailto:hanchao2@illinois.edu
     - title: link
       url: http://beckman.illinois.edu/directory/person/hanchao2
+
+- name: Bowen Cheng
+  image: bowen.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:bcheng9@illinois.edu
+    - title: link
+      url: http://google.com/
+      
+###-------------Undergraduate---------------------
+
+- name: Zhichao Liu
+  image: lzc.jpg
+  text:
+  social:
+    - title: envelope #use for email address
+      url: mailto:liuzceecs@gmail.com
+    - title: link
+      url: https://www.liuzceecs.com/
