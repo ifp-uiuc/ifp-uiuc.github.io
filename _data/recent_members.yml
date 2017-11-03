@@ -1,3 +1,12 @@
+- name: Xinchao Wang
+  image: xinchao.png
+  text: Stevens Institute of Technology
+  social:
+    - title: envelope #use for email address
+      url: mailto:xinchao.w@gmail.com
+    - title: link
+      url: https://sites.google.com/site/sitexinchaowang/
+
 
 - name: Pooya Khorrami 
   image: pooya.jpg
