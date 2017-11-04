@@ -7,6 +7,14 @@
     - title: link
       url: https://sites.google.com/site/sitexinchaowang/
 
+- name: Zhichao Liu
+  image: lzc.jpg
+  text: Student, Peking University
+  social:
+    - title: envelope #use for email address
+      url: mailto:liuzceecs@gmail.com
+    - title: link
+      url: https://www.liuzceecs.com/
 
 - name: Pooya Khorrami 
   image: pooya.jpg
