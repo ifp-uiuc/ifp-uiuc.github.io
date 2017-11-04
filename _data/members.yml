@@ -129,20 +129,19 @@
       url: mailto:yangfuwork@gmail.com
     - title: link
       url: http://google.com
-     
+
+- name: Tianxi Zhao
+  image: tianxi.jpg
+  text: Graduate student, ECE, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto:yangfuwork@gmail.com
+    - title: link
+      url: https://www.linkedin.com/in/tianxi-zhao-8104b567/
       
 ###-------------Undergraduate---------------------
 
-###-------------Visitors---------------------
-- name: Zhichao Liu
-  image: lzc.jpg
-  text: Visiting scholar, EECS, Peking University
-  social:
-    - title: envelope #use for email address
-      url: mailto:liuzceecs@gmail.com
-    - title: link
-      url: https://www.liuzceecs.com/
-      
+###-------------Visitors---------------------      
 - name: Zhiqiang Shen
   image: zhiqiang.jpg
   text: Visiting scholar, CS, Fudan University
