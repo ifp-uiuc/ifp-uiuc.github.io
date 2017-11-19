@@ -220,10 +220,6 @@
     authors: 'Liu, D., Wang, Z., Nasrabadi, N., and Huang, T.S.'
     venue: 'Asian Conference on Computer Vision (ACCV)'
     year: '2016'
-  - title: "Stacked Approximated Regression Machine: A Simple Deep Learning Approach"
-    authors: 'Z. Wang, S. Chang, Q. Ling, S. Huang, X. Hu, H. Shi and T. Huang'
-    venue: 'Advances in Neural Information Processing Systems (NIPS)'
-    year: '2016'
   - title: "Learning A Deep ℓ∞ Encoder for Hashing"
     authors: 'Z. Wang, Y. Yang, S. Chang, Q. Ling, and T. Huang'
     venue: 'International Joint Conferences on Artificial Intelligence (IJCAI)'
