@@ -22,7 +22,7 @@
 
 - name: Ning Xu
   image: ning.jpg
-  text: PhD candidate, ECE, UIUC
+  text: PhD, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:ningxu2@illinois.edu
@@ -31,7 +31,7 @@
 
 - name: Honghui Shi
   image: honghui.jpg
-  text: PhD candidate, ECE, UIUC
+  text: PhD, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:hshi10@illinois.edu
