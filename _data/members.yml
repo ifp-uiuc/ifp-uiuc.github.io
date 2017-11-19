@@ -11,15 +11,6 @@
       
 ###-------------PhD Students---------------------
 
-- name: Wei Han
-  image: wei.jpg
-  text: PhD candidate, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:weihan3@illinois.edu
-    - title: link
-      url: http://beckman.illinois.edu/directory/person/weihan3
-
 - name: Ning Xu
   image: ning.jpg
   text: PhD, ECE, UIUC
@@ -37,7 +28,15 @@
       url: mailto:hshi10@illinois.edu
     - title: link
       url: https://www.linkedin.com/in/honghui-shi-38162257
-
+      
+- name: Wei Han
+  image: wei.jpg
+  text: PhD candidate, ECE, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto:weihan3@illinois.edu
+    - title: link
+      url: http://beckman.illinois.edu/directory/person/weihan3
 
 - name: Ding Liu
   image: ding.jpg
