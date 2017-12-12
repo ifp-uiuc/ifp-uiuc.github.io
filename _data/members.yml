@@ -11,15 +11,6 @@
       
 ###-------------PhD Students---------------------
 
-- name: Ning Xu
-  image: ning.jpg
-  text: PhD, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:ningxu2@illinois.edu
-    - title: link
-      url: https://www.linkedin.com/in/ning-xu-81365438
-
 - name: Honghui Shi
   image: honghui.jpg
   text: PhD, ECE, UIUC
@@ -59,7 +50,7 @@
 
 - name: Zengming Shen
   image: zengming.jpg
-  text: PhD student, NPRE, UIUC
+  text: PhD candidate, NPRE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:zshen5@illinois.edu
@@ -68,7 +59,7 @@
 
 - name: Yuchen Fan
   image: yuchen.jpg
-  text: PhD student, ECE, UIUC
+  text: PhD candidate, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:yuchenf4@illinois.edu
@@ -77,7 +68,7 @@
       
 - name: Jiahui Yu
   image: jay.jpg
-  text: PhD student, ECE, UIUC
+  text: PhD candidate, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:hi@jhyu.me
