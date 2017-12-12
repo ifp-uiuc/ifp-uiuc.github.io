@@ -11,15 +11,6 @@
       
 ###-------------PhD Students---------------------
 
-- name: Honghui Shi
-  image: honghui.jpg
-  text: PhD, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:hshi10@illinois.edu
-    - title: link
-      url: https://www.linkedin.com/in/honghui-shi-38162257
-      
 - name: Wei Han
   image: wei.jpg
   text: PhD candidate, ECE, UIUC
