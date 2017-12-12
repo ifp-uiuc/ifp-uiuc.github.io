@@ -1,3 +1,12 @@
+- name: Ning Xu
+  image: ning.jpg
+  text: Adobe Research
+  social:
+    - title: envelope #use for email address
+      url: mailto:ningxu2@illinois.edu
+    - title: link
+      url: https://www.linkedin.com/in/ning-xu-81365438
+
 - name: Xinchao Wang
   image: xinchao.png
   text: Stevens Institute of Technology
