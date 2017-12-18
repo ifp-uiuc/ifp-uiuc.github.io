@@ -134,7 +134,7 @@
 
 - name: Jianbo Jiao
   image: jianbo.jpg
-  text: Visiting scholar, CS, CityU, Hong Kong
+  text: Visiting scholar, CS, CityU Hong Kong
   social:
     - title: envelope #use for email address
       url: mailto:jiaojianbo.i@gmail.com
