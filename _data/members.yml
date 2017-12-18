@@ -131,3 +131,12 @@
       url: mailto:zhiqiangshen13@fudan.edu.cn
     - title: link
       url: http://www.zhiqiangshen.com/
+
+- name: Jianbo Jiao
+  image: jianbo.jpg
+  text: Visiting scholar, CS, City University of Hong Kong
+  social:
+    - title: envelope #use for email address
+      url: mailto:jiaojianbo.i@gmail.com
+    - title: link
+      url: http://www.cs.cityu.edu.hk/~jianbjiao2/
