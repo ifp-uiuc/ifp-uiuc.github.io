@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Image Formation and Processing at UIUC.
+title: Image Formation and Processing Group at UIUC.
 description: "Computer vision research."
 analytics: UA-62493043-1 #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
