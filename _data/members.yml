@@ -13,7 +13,7 @@
 
 - name: Wei Han
   image: wei.jpg
-  text: PhD candidate, ECE, UIUC
+  text: PhD candidate ABD, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:weihan3@illinois.edu
@@ -22,7 +22,7 @@
 
 - name: Ding Liu
   image: ding.jpg
-  text: PhD candidate, ECE, UIUC
+  text: PhD candidate ABD, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:dingliu2@illinois.edu
