@@ -51,7 +51,7 @@
 
 - name: Haichao Yu
   image: hayden.jpg
-  text: PhD student, ECE, UIUC
+  text: PhD candidate, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:haichaoyu3@gmail.com
@@ -67,6 +67,15 @@
     - title: link
       url: http://beckman.illinois.edu/directory/person/hanchao2
 
+- name: Yuqian Zhou
+  image: yuqian.jpg
+  text: PhD candidate, ECE, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto:zhouyuqian133@gmail.com
+    - title: link
+      url: http://ihome.ust.hk/~yzhouas/
+
 - name: Bowen Cheng
   image: bowen.jpg
   text: PhD student, ECE, UIUC
@@ -75,15 +84,6 @@
       url: mailto:bcheng9@illinois.edu
     - title: link
       url: http://google.com/
-     
-- name: Yuqian Zhou
-  image: yuqian.jpg
-  text: PhD student, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:zhouyuqian133@gmail.com
-    - title: link
-      url: http://ihome.ust.hk/~yzhouas/
 
 - name: Yang Fu
   image: yang.jpg
