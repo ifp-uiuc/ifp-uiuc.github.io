@@ -99,10 +99,19 @@
   text: MS student, ECE, UIUC
   social:
     - title: envelope #use for email address
-      url: mailto:yangfuwork@gmail.com
+      url: mailto:tzhao9@illinois.edu 
     - title: link
       url: https://www.linkedin.com/in/tianxi-zhao-8104b567/
-      
+
+- name: Zhonghao Wang
+  #image: zhonghao.jpg
+  text: MS student, ECE, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto: zwang246@illinois.edu
+    - title: link
+      url: https://ece.illinois.edu/directory/profile/zwang246
+
 ###-------------Undergraduate---------------------
 
 ###-------------Visitors---------------------      
@@ -132,3 +141,21 @@
       url: mailto:Xiaolin.Zhang-3@student.uts.edu.au
     - title: link
       url: https://beckman.illinois.edu/directory/person/xiaolin
+      
+- name: Rui Qian
+  #image: rui.jpg
+  text: Visiting scholar, EECS, PKU
+  social:
+    - title: envelope #use for email address
+      url: mailto:qianrui@pku.edu.cn 
+    - title: link
+      url: https://rui1996.github.io/
+      
+ - name: Jiachen Li
+  #image: jiachen.jpg
+  text: Visiting scholar, EST, SJTU
+  social:
+    - title: envelope #use for email address
+      url: mailto:ljcf1502123@sjtu.edu.cn 
+    - title: link
+      url: https://beckman.illinois.edu/directory/person/jiachenl
