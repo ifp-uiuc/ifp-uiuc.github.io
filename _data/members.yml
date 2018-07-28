@@ -108,7 +108,7 @@
   text: MS student, ECE, UIUC
   social:
     - title: envelope #use for email address
-      url: mailto: zwang246@illinois.edu
+      url: mailto:zwang246@illinois.edu
     - title: link
       url: https://ece.illinois.edu/directory/profile/zwang246
 
