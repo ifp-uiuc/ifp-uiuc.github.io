@@ -1,3 +1,21 @@
+- name: Ding Liu
+  image: ding.jpg
+  text: Toutiao AI Lab
+  social:
+    - title: envelope #use for email address
+      url: mailto:dingliu2@illinois.edu
+    - title: link
+      url: https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en
+
+- name: Wei Han
+  image: wei.jpg
+  text: Google
+  social:
+    - title: envelope #use for email address
+      url: mailto:weihan3@illinois.edu
+    - title: link
+      url: http://beckman.illinois.edu/directory/person/weihan3
+
 - name: Ning Xu
   image: ning.jpg
   text: Adobe Research
