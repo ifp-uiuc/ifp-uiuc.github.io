@@ -123,3 +123,12 @@
       url: mailto:jiaojianbo.i@gmail.com
     - title: link
       url: http://www.cs.cityu.edu.hk/~jianbjiao2/
+      
+- name: Xiaolin Zhang
+  #image: xiaolin.jpg
+  text: Visiting scholar, CS, UTS
+  social:
+    - title: envelope #use for email address
+      url: mailto:Xiaolin.Zhang-3@student.uts.edu.au
+    - title: link
+      url: https://beckman.illinois.edu/directory/person/xiaolin
