@@ -104,7 +104,7 @@
       url: https://www.linkedin.com/in/tianxi-zhao-8104b567/
 
 - name: Zhonghao Wang
-  #image: zhonghao.jpg
+  image: zhonghao.jpg
   text: MS student, ECE, UIUC
   social:
     - title: envelope #use for email address
@@ -134,7 +134,7 @@
       url: http://www.cs.cityu.edu.hk/~jianbjiao2/
       
 - name: Xiaolin Zhang
-  #image: xiaolin.jpg
+  image: xiaolin.jpg
   text: Visiting scholar, CS, UTS
   social:
     - title: envelope #use for email address
