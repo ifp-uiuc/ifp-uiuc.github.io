@@ -104,7 +104,7 @@
       url: https://www.linkedin.com/in/tianxi-zhao-8104b567/
 
 - name: Zhonghao Wang
-  image: zhonghao.jpg
+  image:  default.gif
   text: MS student, ECE, UIUC
   social:
     - title: envelope #use for email address
@@ -134,7 +134,7 @@
       url: http://www.cs.cityu.edu.hk/~jianbjiao2/
       
 - name: Xiaolin Zhang
-  image: xiaolin.jpg
+  image: default.gif
   text: Visiting scholar, CS, UTS
   social:
     - title: envelope #use for email address
@@ -143,7 +143,7 @@
       url: https://beckman.illinois.edu/directory/person/xiaolin
       
 - name: Rui Qian
-  #image: rui.jpg
+  image: default.gif
   text: Visiting scholar, EECS, PKU
   social:
     - title: envelope #use for email address
@@ -152,7 +152,7 @@
       url: https://rui1996.github.io/
       
  - name: Jiachen Li
-  #image: jiachen.jpg
+  image: default.gif
   text: Visiting scholar, EST, SJTU
   social:
     - title: envelope #use for email address
