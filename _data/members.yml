@@ -11,23 +11,6 @@
       
 ###-------------PhD Students---------------------
 
-- name: Wei Han
-  image: wei.jpg
-  text: PhD candidate ABD, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:weihan3@illinois.edu
-    - title: link
-      url: http://beckman.illinois.edu/directory/person/weihan3
-
-- name: Ding Liu
-  image: ding.jpg
-  text: PhD candidate ABD, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:dingliu2@illinois.edu
-    - title: link
-      url: https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en
 
 - name: Kuangxiao Gu
   image: kevin.jpg
@@ -113,7 +96,7 @@
 
 - name: Tianxi Zhao
   image: tianxi.jpg
-  text: Graduate student, ECE, UIUC
+  text: MS student, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:yangfuwork@gmail.com
