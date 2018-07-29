@@ -142,7 +142,7 @@
       url: https://beckman.illinois.edu/directory/person/xiaolin
       
 - name: Rui Qian
-  image: default.gif
+  image: rui.jpg
   text: Visiting scholar, EECS, PKU
   social:
     - title: envelope #use for email address
