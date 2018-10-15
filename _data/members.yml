@@ -81,7 +81,7 @@
     - title: envelope #use for email address
       url: mailto:bcheng9@illinois.edu
     - title: link
-      url: http://google.com/
+      url: https://bowenc0221.github.io/
 
 - name: Yang Fu
   image: yang.jpg
