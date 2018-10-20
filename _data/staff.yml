@@ -1,7 +1,7 @@
 ###-------------Faculty---------------------
 - name: Thomas S. Huang
   image: huang.jpg
-  text: "Swunland Endowed Chair Emeritas, <br/>ECE, UIUC"
+  text: "Swunland Chair Emeritas, <br/>ECE, UIUC"
   social:
     - title: envelope #use for email address
       url: mailto:ifp.uiuc@gmail.com    
@@ -21,7 +21,7 @@
 
 - name: Yunchao Wei
   image: yunchao.jpeg
-  text: "Postdoc & Project Scientist, <br/>Beckman Institute & C3SR"
+  text: "Postdoc, Project Scientist, <br/>Beckman Institute & C3SR"
   social:
     - title: envelope #use for email address
       url: mailto:wychao1987@gmail.com    
@@ -30,7 +30,7 @@
 
 - name: Paritosh Garg
   image: paritosh.jpg
-  text: "Senior Research Programmer, <br/>Beckman Institute"
+  text: "Sr Research Programmer, <br/>Beckman Institute"
   social:
     - title: envelope #use for email address
       url: mailto:paritosh@illinois.edu 
