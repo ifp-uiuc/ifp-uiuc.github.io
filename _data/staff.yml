@@ -13,10 +13,9 @@
   text: ECE, UIUC
   social:
     - title: envelope #use for email address
-      url: mailto: hshi10@illinois.edu   
+      url: mailto:hshi10@illinois.edu   
     - title: link
       url: https://ece.illinois.edu/directory/profile/hshi10
-
 
 ###-------------Staff---------------------
 
@@ -28,4 +27,3 @@
       url: mailto:wychao1987@gmail.com    
     - title: link
       url: https://weiyc.github.io
-      
