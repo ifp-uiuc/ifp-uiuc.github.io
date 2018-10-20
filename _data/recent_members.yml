@@ -118,7 +118,7 @@
 
 - name: Jiangping Wang
   image: jp.jpg
-  text: Siemens
+  text: Siemens Healthcare
   social:
     - title: envelope #use for email address
       url: mailto:jwang63@illinois.edu
