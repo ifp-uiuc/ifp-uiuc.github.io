@@ -84,7 +84,7 @@
       
       
 - name: Haoming Lu
-  image:  default.gif
+  image: haoming.jpg
   text: PhD student, ECE, UIUC
   social:
     - title: envelope #use for email address
