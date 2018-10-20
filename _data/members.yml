@@ -112,7 +112,7 @@
  
 - name: MangTik Chiu
   image:  mangtik.jpg
-  text: MS student, ECE, UIUC
+  text: MS student, CS, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:mtchiu2@illinois.edu 
