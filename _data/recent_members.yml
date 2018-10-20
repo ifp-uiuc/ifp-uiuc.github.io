@@ -1,6 +1,6 @@
 - name: Jiachen Li
   image: jiachen.jpg
-  text: Visiting scholar, EST, SJTU
+  text: Student, EST, SJTU
   social:
     - title: envelope #use for email address
       url: mailto:ljcf1502123@sjtu.edu.cn 
@@ -9,7 +9,7 @@
            
 - name: Rui Qian
   image: rui.jpg
-  text: Visiting scholar, EECS, PKU
+  text: Student, EECS, PKU
   social:
     - title: envelope #use for email address
       url: mailto:qianrui@pku.edu.cn 
@@ -18,7 +18,7 @@
       
 - name: Xiaolin Zhang
   image: xiaolin.jpg
-  text: Visiting scholar, CS, UTS
+  text: Student, CS, UTS
   social:
     - title: envelope #use for email address
       url: mailto:Xiaolin.Zhang-3@student.uts.edu.au
@@ -27,7 +27,7 @@
 
 - name: Jianbo Jiao
   image: jianbo.jpg
-  text: Visiting scholar, CS, CityU Hong Kong
+  text: Postdoc, VGG, University of Oxford
   social:
     - title: envelope #use for email address
       url: mailto:jiaojianbo.i@gmail.com
