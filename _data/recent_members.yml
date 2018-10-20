@@ -127,12 +127,12 @@
       
 - name: Yingzhen Yang
   image: yingzhen.png
-  text: Snap. Inc.
+  text: Baidu USA
   social:
     - title: envelope #use for email address
       url: mailto:yyang58@illinois.edu
     - title: link
-      url: http://www.ifp.illinois.edu/~yyang58/
+      url: http://yingzhenyang.com/
       
 - name: Zhangyang Wang
   image: atlas.jpg
@@ -146,7 +146,7 @@
   
 - name: Shiyu Chang
   image: shiyu.jpg
-  text: IBM Watson Research Center
+  text: IBM Research
   social:
     - title: envelope #use for email address
       url: mailto:chang87@illinois.edu
