@@ -1,7 +1,7 @@
 ###-------------Faculty---------------------
 - name: Thomas S. Huang
   image: huang.jpg
-  text: Swunland Endowed Chair Emeritas, ECE, UIUC
+  text: Swunland Chair Emeritas, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:ifp.uiuc@gmail.com    
@@ -21,7 +21,7 @@
 
 - name: Yunchao Wei
   image: yunchao.jpeg
-  text: Postdoc, Beckman; Project Scientist, C3SR
+  text: Project Scientist, Beckman & C3SR
   social:
     - title: envelope #use for email address
       url: mailto:wychao1987@gmail.com    
