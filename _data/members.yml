@@ -142,6 +142,15 @@
     - title: link
       url: https://google.com
       
+- name: MangTik Chiu
+  image:  default.gif
+  text: MS student, ECE, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto:mtchiu2@illinois.edu 
+    - title: link
+      url: http://mtchiu.me/
+      
 - name: Zilong Huang
   image:  default.gif
   text: PhD candidate, EIC, HUST
@@ -150,3 +159,7 @@
       url: mailto:speedinghzl@gmail.com
     - title: link
       url: https://speedinghzl.github.io/
+      
+      
+      
+      http://www.xingquant.com/
