@@ -110,6 +110,18 @@
     - title: link
       url: https://ece.illinois.edu/directory/profile/zwang246
  
+
+###-------------None ECE---------------------
+
+- name: Zengming Shen
+  image: zengming.jpg
+  text: PhD cand., NPRE, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto:zshen5@illinois.edu
+    - title: link
+      url: https://www.linkedin.com/in/zengming-zack-shen-b7921147
+      
 - name: MangTik Chiu
   image:  mangtik.jpg
   text: MS student, CS, UIUC
@@ -118,16 +130,6 @@
       url: mailto:mtchiu2@illinois.edu 
     - title: link
       url: http://mtchiu.me/
-###-------------None ECE---------------------
-
-- name: Zengming Shen
-  image: zengming.jpg
-  text: PhD candidate,NPRE,UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:zshen5@illinois.edu
-    - title: link
-      url: https://www.linkedin.com/in/zengming-zack-shen-b7921147
       
 - name: Siwei Tang
   image: default.gif
