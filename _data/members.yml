@@ -122,7 +122,7 @@
 
 - name: Zengming Shen
   image: zengming.jpg
-  text: PhD candidate, NPRE,UIUC
+  text: PhD candidate,NPRE,UIUC
   social:
     - title: envelope #use for email address
       url: mailto:zshen5@illinois.edu
@@ -131,7 +131,7 @@
       
 - name: Siwei Tang
   image: default.gif
-  text: MS student, MechSE,UIUC
+  text: MS student,MechSE,UIUC
   social:
     - title: envelope #use for email address
       url: mailto:siweit2@illinois.edu
