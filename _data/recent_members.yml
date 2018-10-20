@@ -1,3 +1,39 @@
+- name: Jiachen Li
+  image: jiachen.jpg
+  text: Visiting scholar, EST, SJTU
+  social:
+    - title: envelope #use for email address
+      url: mailto:ljcf1502123@sjtu.edu.cn 
+    - title: link
+      url: https://beckman.illinois.edu/directory/person/jiachenl
+           
+- name: Rui Qian
+  image: rui.jpg
+  text: Visiting scholar, EECS, PKU
+  social:
+    - title: envelope #use for email address
+      url: mailto:qianrui@pku.edu.cn 
+    - title: link
+      url: https://rui1996.github.io/
+      
+- name: Xiaolin Zhang
+  image: xiaolin.jpg
+  text: Visiting scholar, CS, UTS
+  social:
+    - title: envelope #use for email address
+      url: mailto:Xiaolin.Zhang-3@student.uts.edu.au
+    - title: link
+      url: https://beckman.illinois.edu/directory/person/xiaolin
+
+- name: Jianbo Jiao
+  image: jianbo.jpg
+  text: Visiting scholar, CS, CityU Hong Kong
+  social:
+    - title: envelope #use for email address
+      url: mailto:jiaojianbo.i@gmail.com
+    - title: link
+      url: http://www.cs.cityu.edu.hk/~jianbjiao2/
+
 - name: Ding Liu
   image: ding.jpg
   text: Toutiao AI Lab
