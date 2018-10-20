@@ -74,7 +74,7 @@
       url: http://google.com
 
 - name: Xingqian Xu
-  image:  default.gif
+  image:  xingqian.jpg
   text: PhD student, ECE, UIUC
   social:
     - title: envelope #use for email address
