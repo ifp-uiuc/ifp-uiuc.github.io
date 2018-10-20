@@ -107,9 +107,9 @@
     - title: link
       url: http://tomlepaine.github.io/
       
-- name: Prajit Ramachandran
+- name: Prajit R. # Prajit
   image: prajit.png
-  text: Google Brain
+  text: Google Brain Resident
   social:
     - title: envelope #use for email address
       url: mailto:prajitram@gmail.com
