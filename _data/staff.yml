@@ -1,6 +1,6 @@
 ###-------------Faculty---------------------
 - name: Prof. Thomas S. Huang
-  image: tom.jpg
+  image: huang.jpg
   text: Research Professor, ECE, UIUC
   social:
     - title: envelope #use for email address
