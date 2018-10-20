@@ -114,15 +114,6 @@
 
 ###-------------Visitors---------------------    
 
-- name: Zhiqiang Shen
-  image: zhiqiang.jpg
-  text: Visiting scholar, CS, Fudan University
-  social:
-    - title: envelope #use for email address
-      url: mailto:zhiqiangshen13@fudan.edu.cn
-    - title: link
-      url: http://www.zhiqiangshen.com/
-
 - name: Xingqian Xu
   image:  default.gif
   text: PhD student, ECE, UIUC
@@ -151,9 +142,18 @@
     - title: link
       url: http://mtchiu.me/
       
+- name: Zhiqiang Shen
+  image: zhiqiang.jpg
+  text: Visiting scholar, CS, Fudan University
+  social:
+    - title: envelope #use for email address
+      url: mailto:zhiqiangshen13@fudan.edu.cn
+    - title: link
+      url: http://www.zhiqiangshen.com/
+
 - name: Zilong Huang
   image:  default.gif
-  text: PhD candidate, EIC, HUST
+  text: Visiting scholar, EIC, HUST
   social:
     - title: envelope #use for email address
       url: mailto:speedinghzl@gmail.com
