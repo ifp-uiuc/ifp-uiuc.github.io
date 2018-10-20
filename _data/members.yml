@@ -124,7 +124,7 @@
       url: http://www.zhiqiangshen.com/
 
 - name: Xingqian Xu
-  image:  default.jpg
+  image:  default.gif
   text: PhD student, ECE, UIUC
   social:
     - title: envelope #use for email address
@@ -134,7 +134,7 @@
       
       
 - name: Haoming Lu
-  image:  default.jpg
+  image:  default.gif
   text: PhD student, ECE, UIUC
   social:
     - title: envelope #use for email address
@@ -143,7 +143,7 @@
       url: https://google.com
       
 - name: Zilong Huang
-  image:  default.jpg
+  image:  default.gif
   text: PhD candidate, EIC, HUST
   social:
     - title: envelope #use for email address
