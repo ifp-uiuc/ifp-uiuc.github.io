@@ -36,3 +36,12 @@
       url: mailto:paritosh@illinois.edu 
     - title: link
       url: https://beckman.illinois.edu/directory/person/paritosh
+
+- name: Christine Walls
+  image: christine.jpg
+  text: "Office Manager, <br/>Beckman Institute"
+  social:
+    - title: envelope #use for email address
+      url: mailto:cjwalls@illinois.edu 
+    - title: link
+      url: https://beckman.illinois.edu/directory/person/cjwalls
