@@ -109,17 +109,17 @@
   url: http://web.missouri.edu/~hantx/
 
 - name: Vuong Le
-  job: Amazon
+  job: Deakin University
   email: 
   url: http://www.ifp.illinois.edu/~vuongle2/
 
 - name: Xiang Sean Zhou
-  job: Siemens
+  job: United Imaging Intelligence
   email: 
   url: http://www.ifp.illinois.edu/~xzhou2/
 
 - name: Yue Zhou
-  job: 
+  job: Houzz
   email: yuezhou@ifp.uiuc.edu
   url: http://www.ifp.illinois.edu/~yuezhou/
 
@@ -174,7 +174,7 @@
   url: 
 
 - name: Xi Zhou
-  job: CloudWalk Information Technology
+  job: CloudWalk Technology
   email: zhouxi127@gmail.com
   url:
 
@@ -264,7 +264,7 @@
   url: http://www.ifp.illinois.edu/~zhzeng/
 
 - name: Alan Bovik
-  job: University of Texas at Austin
+  job: UT Austin
   email:
   url:
 
@@ -494,11 +494,6 @@
   email:
   url:
 
-- name: Yue Zhou
-  job: Twitter
-  email:
-  url:
-
 - name: Yuncai Liu
   job: Shanghai Jiao Tong University
   email:
@@ -518,9 +513,3 @@
   job: United Technologies Research Center
   email:
   url:
-
-- name: Xingqian Xu
-  url:
-  job:
-  email:
-  url: http://www.xingquant.com
