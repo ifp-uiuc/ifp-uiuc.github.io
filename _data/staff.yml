@@ -10,7 +10,7 @@
 
 - name: Honghui Shi
   image: honghui.jpg
-  text: Graduate Faculty Member, ECE, UIUC
+  text: "Graduate Faculty Member, <br/>ECE, UIUC"
   social:
     - title: envelope #use for email address
       url: mailto:hshi10@illinois.edu   
@@ -21,7 +21,7 @@
 
 - name: Yunchao Wei
   image: yunchao.jpeg
-  text: Project Scientist, Beckman & C3SR
+  text: "Postdoc & Project Scientist, <br/>Beckman Institute & C3SR"
   social:
     - title: envelope #use for email address
       url: mailto:wychao1987@gmail.com    
@@ -30,7 +30,7 @@
 
 - name: Paritosh Garg
   image: paritosh.jpg
-  text: Senior Research Programmer, Beckman
+  text: "Senior Research Programmer, <br/>Beckman Institute"
   social:
     - title: envelope #use for email address
       url: mailto:paritosh@illinois.edu 
