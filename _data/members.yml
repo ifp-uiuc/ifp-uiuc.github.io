@@ -143,7 +143,7 @@
 
 - name: Zhiqiang Shen
   image: zhiqiang.jpg
-  text: Visiting scholar, CS, Fudan University
+  text: Visiting scholar, CS, Fudan
   social:
     - title: envelope #use for email address
       url: mailto:zhiqiangshen13@fudan.edu.cn
