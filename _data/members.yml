@@ -10,15 +10,6 @@
     - title: link
       url: https://www.linkedin.com/in/kuangxiao-gu-b635027a
 
-- name: Jiahui Yu
-  image: jay.jpg
-  text: PhD candidate, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:hi@jhyu.me
-    - title: link
-      url: http://jiahuiyu.com/
-
 - name: Yuchen Fan
   image: yuchen.jpg
   text: PhD candidate, ECE, UIUC
@@ -27,7 +18,16 @@
       url: mailto:yuchenf4@illinois.edu
     - title: link
       url: http://google.com
-
+      
+- name: Jiahui Yu
+  image: jay.jpg
+  text: PhD candidate, ECE, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto:hi@jhyu.me
+    - title: link
+      url: http://jiahuiyu.com/
+      
 - name: Haichao Yu
   image: hayden.jpg
   text: PhD candidate, ECE, UIUC
