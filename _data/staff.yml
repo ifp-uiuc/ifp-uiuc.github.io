@@ -1,5 +1,5 @@
 ###-------------Faculty---------------------
-- name: Prof. Thomas S. Huang
+- name: Thomas S. Huang
   image: huang.jpg
   text: Research Professor, ECE, UIUC
   social:
@@ -8,9 +8,9 @@
     - title: link
       url: https://ece.illinois.edu/directory/profile/t-huang1
 
-- name: Prof. Honghui Shi
+- name: Honghui Shi
   image: honghui.jpg
-  text: ECE, UIUC
+  text: Graduate Faculty Member, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:hshi10@illinois.edu   
@@ -27,3 +27,12 @@
       url: mailto:wychao1987@gmail.com    
     - title: link
       url: https://weiyc.github.io
+
+- name: Paritosh Garg
+  image: paritosh.jpg
+  text: Senior Research Programmer, Beckman
+  social:
+    - title: envelope #use for email address
+      url: mailto:paritosh@illinois.edu 
+    - title: link
+      url: https://beckman.illinois.edu/directory/person/paritosh
