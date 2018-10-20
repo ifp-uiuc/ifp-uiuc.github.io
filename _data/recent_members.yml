@@ -72,7 +72,7 @@
 
 - name: Xinchao Wang
   image: xinchao.png
-  text: Stevens Institute of Technology
+  text: Stevens Inst. of Tech.
   social:
     - title: envelope #use for email address
       url: mailto:xinchao.w@gmail.com
