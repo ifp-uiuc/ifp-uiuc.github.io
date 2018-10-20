@@ -1,4 +1,24 @@
-###-------------Postdocs---------------------
+###-------------Faculty---------------------
+- name: Prof. Thomas S. Huang
+  image: tom.jpg
+  text: Research Professor, ECE, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto:ifp.uiuc@gmail.com    
+    - title: link
+      url: https://ece.illinois.edu/directory/profile/t-huang1
+
+- name: Prof. Honghui Shi
+  image: honghui.jpg
+  text: ECE, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto: hshi10@illinois.edu   
+    - title: link
+      url: https://ece.illinois.edu/directory/profile/hshi10
+
+
+###-------------Staff---------------------
 
 - name: Yunchao Wei
   image: yunchao.jpeg
