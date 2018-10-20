@@ -1,7 +1,7 @@
 ###-------------Faculty---------------------
 - name: Thomas S. Huang
   image: huang.jpg
-  text: "Swunland Endowed Chair Emeritas, \nECE, UIUC"
+  text: "Swunland Endowed Chair Emeritas, <br/>ECE, UIUC"
   social:
     - title: envelope #use for email address
       url: mailto:ifp.uiuc@gmail.com    
