@@ -129,7 +129,7 @@
     - title: envelope #use for email address
       url: mailto:mtchiu2@illinois.edu 
     - title: link
-      url: http://mtchiu.me/
+      url: mtchiu.github.io
       
 - name: Siwei Tang
   image: siwei.jpg
