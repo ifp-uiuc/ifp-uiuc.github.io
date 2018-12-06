@@ -39,7 +39,7 @@
 
 - name: Hanchao Yu
   image: hank.jpg
-  text: PhD student, ECE, UIUC
+  text: PhD candidate, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:hanchao2@illinois.edu
