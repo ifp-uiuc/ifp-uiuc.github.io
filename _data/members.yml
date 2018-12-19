@@ -130,15 +130,15 @@
       url: mailto:mtchiu2@illinois.edu 
     - title: link
       url: http://mtchiu.github.io
-      
-- name: Siwei Tang
-  image: siwei.jpg
-  text: MS student,MechSE,UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:siweit2@illinois.edu
-    - title: link
-      url: https://google.com 
+  
+# - name: Siwei Tang
+#   image: siwei.jpg
+#   text: MS student,MechSE,UIUC
+#   social:
+#     - title: envelope #use for email address
+#       url: mailto:siweit2@illinois.edu
+#     - title: link
+#       url: https://google.com 
 ###-------------Undergraduate---------------------
 
 ###-------------Visitors---------------------    
