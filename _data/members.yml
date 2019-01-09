@@ -92,6 +92,15 @@
     - title: link
       url: https://google.com
 
+- name: MangTik Chiu
+  image:  mangtik.jpg
+  text: MS student, CS, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto:mtchiu2@illinois.edu 
+    - title: link
+      url: http://mtchiu.github.io
+
 - name: Tianxi Zhao
   image: tianxi.jpg
   text: MS student, ECE, UIUC
@@ -111,7 +120,7 @@
       url: https://ece.illinois.edu/directory/profile/zwang246
  
 
-###-------------None ECE---------------------
+###-------------None ECE/CS---------------------
 
 - name: Zengming Shen
   image: zengming.jpg
@@ -122,14 +131,6 @@
     - title: link
       url: https://www.linkedin.com/in/zengming-zack-shen-b7921147
       
-- name: MangTik Chiu
-  image:  mangtik.jpg
-  text: MS student, CS, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:mtchiu2@illinois.edu 
-    - title: link
-      url: http://mtchiu.github.io
   
 # - name: Siwei Tang
 #   image: siwei.jpg
@@ -143,6 +144,15 @@
 
 ###-------------Visitors---------------------    
 
+- name: Zilong Huang
+  image: zilong.jpg
+  text: Visiting scholar, EIC, HUST
+  social:
+    - title: envelope #use for email address
+      url: mailto:speedinghzl@gmail.com
+    - title: link
+      url: https://speedinghzl.github.io/
+
 - name: Zhiqiang Shen
   image: zhiqiang.jpg
   text: Visiting scholar, CS, Fudan
@@ -152,12 +162,5 @@
     - title: link
       url: http://www.zhiqiangshen.com/
 
-- name: Zilong Huang
-  image: zilong.jpg
-  text: Visiting scholar, EIC, HUST
-  social:
-    - title: envelope #use for email address
-      url: mailto:speedinghzl@gmail.com
-    - title: link
-      url: https://speedinghzl.github.io/
+
       
