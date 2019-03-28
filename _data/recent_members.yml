@@ -155,7 +155,8 @@
   
 - name: Shiyu Chang
   image: shiyu.jpg
-  text: IBM Research
+  #text: IBM Research
+  text: MIT-IBM Watson AI Lab
   social:
     - title: envelope #use for email address
       url: mailto:chang87@illinois.edu
@@ -164,7 +165,8 @@
       
 - name: Xianming Liu
   image: xianming.jpg
-  text: Facebook Research
+  #text: Facebook Research
+  text: Horizon Robotics
   social:
     - title: envelope #use for email address
       url: mailto:xliu102@illinois.edu
