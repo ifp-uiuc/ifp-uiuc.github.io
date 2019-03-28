@@ -1,5 +1,6 @@
 - name: Zhiqiang Shen
   image: zhiqiang.jpg
+  #text: Visiting scholar, CS, Fudan
   text: Postdoc, CMU
   social:
     - title: envelope #use for email address
@@ -90,7 +91,7 @@
 
 - name: Zhichao Liu
   image: lzc.jpg
-  text: Student, Peking University
+  text: Graduate student, UMD
   social:
     - title: envelope #use for email address
       url: mailto:liuzceecs@gmail.com
@@ -118,6 +119,7 @@
       
 - name: Prajit R. # Prajit
   image: prajit.png
+  #text: Google Brain
   text: Google Brain Resident
   social:
     - title: envelope #use for email address
