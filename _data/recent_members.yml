@@ -1,3 +1,13 @@
+- name: Tianxi Zhao
+  image: tianxi.jpg
+  #text: MS student, ECE, UIUC
+  text: Microsoft
+  social:
+    - title: envelope #use for email address
+      url: mailto:tzhao9@illinois.edu 
+    - title: link
+      url: https://www.linkedin.com/in/tianxi-zhao-8104b567/
+
 - name: Zhiqiang Shen
   image: zhiqiang.jpg
   #text: Visiting scholar, CS, Fudan
