@@ -1,7 +1,7 @@
 ###-------------Faculty---------------------
 - name: Thomas S. Huang
   image: huang.jpg
-  text: "Swunland Chair Emeritus, <br/>ECE, UIUC"
+  text: "Founding Leader, <br/> Swunland Chair Emeritus, UIUC"
   social:
     - title: envelope #use for email address
       url: mailto:ifp.uiuc@gmail.com    
@@ -10,7 +10,7 @@
 
 - name: Honghui Shi
   image: honghui.jpg
-  text: "Graduate Faculty Member, <br/>ECE, UIUC"
+  text: "Co-Leader, <br/>Graduate Faculty Member, UIUC"
   social:
     - title: envelope #use for email address
       url: mailto:hshi10@illinois.edu   
