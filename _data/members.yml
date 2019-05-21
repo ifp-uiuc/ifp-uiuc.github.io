@@ -57,12 +57,21 @@
 
 - name: Bowen Cheng
   image: bowen.jpg
-  text: PhD student, ECE, UIUC
+  text: PhD candidate, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:bcheng9@illinois.edu
     - title: link
       url: https://bowenc0221.github.io/
+
+- name: Zhonghao Wang
+  image:  zhonghao.jpg
+  text: PhD candidate, ECE, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto:zwang246@illinois.edu
+    - title: link
+      url: https://ece.illinois.edu/directory/profile/zwang246
 
 - name: Yang Fu
   image: yang.jpg
@@ -100,31 +109,13 @@
       url: mailto:mtchiu2@illinois.edu 
     - title: link
       url: http://mtchiu.github.io
-
-- name: Tianxi Zhao
-  image: tianxi.jpg
-  text: MS student, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:tzhao9@illinois.edu 
-    - title: link
-      url: https://www.linkedin.com/in/tianxi-zhao-8104b567/
-
-- name: Zhonghao Wang
-  image:  zhonghao.jpg
-  text: MS student, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:zwang246@illinois.edu
-    - title: link
-      url: https://ece.illinois.edu/directory/profile/zwang246
  
 
 ###-------------None ECE/CS---------------------
 
 - name: Zengming Shen
   image: zengming.jpg
-  text: PhD cand., NPRE, UIUC
+  text: PhD ABD, NPRE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:zshen5@illinois.edu
