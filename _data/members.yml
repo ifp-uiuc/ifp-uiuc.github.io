@@ -37,15 +37,6 @@
     - title: link
       url: https://speedinghzl.github.io/
       
-- name: Zhonghao Wang
-  image:  zhonghao.jpg
-  text: PhD candidate, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:zwang246@illinois.edu
-    - title: link
-      url: https://ece.illinois.edu/directory/profile/zwang246
-      
 - name: Haoming Lu
   image: haoming.jpg
   text: PhD student, ECE, UIUC
@@ -54,6 +45,15 @@
       url: mailto:hl36@illinois.edu
     - title: link
       url: https://google.com
+
+- name: Zhonghao Wang
+  image:  zhonghao.jpg
+  text: PhD candidate, ECE, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto:zwang246@illinois.edu
+    - title: link
+      url: https://ece.illinois.edu/directory/profile/zwang246
       
 - name: Jiachen Li
   image: jiachen.jpg
