@@ -10,7 +10,7 @@
 
 - name: Honghui Shi
   image: honghui.jpg
-  text: "Co-Leader, <br/>Graduate Faculty Member"
+  text: "Co-Leader At Large, <br/>Graduate Faculty Member"
   social:
     - title: envelope #use for email address
       url: mailto:hshi10@illinois.edu   
