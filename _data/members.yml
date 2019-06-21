@@ -54,6 +54,16 @@
       url: mailto:hl36@illinois.edu
     - title: link
       url: https://google.com
+      
+- name: Jiachen Li
+  image: jiachen.jpg
+  text: PhD student, ECE, UIUC
+  #text: Student, EST, SJTU
+  social:
+    - title: envelope #use for email address
+      url: mailto:ljcf1502123@sjtu.edu.cn 
+    - title: link
+      url: https://beckman.illinois.edu/directory/person/jiachenl
 
 - name: Xingqian Xu
   image:  xingqian.jpg
@@ -64,7 +74,6 @@
     - title: link
       url: http://www.xingquant.com/
       
-
 - name: MangTik Chiu
   image:  mangtik.jpg
   text: MS student, CS, UIUC
