@@ -27,7 +27,16 @@
       url: mailto:zhouyuqian133@gmail.com
     - title: link
       url: http://ihome.ust.hk/~yzhouas/
-
+      
+- name: Zilong Huang
+  image: zilong.jpg
+  text: Visiting scholar, EIC, HUST
+  social:
+    - title: envelope #use for email address
+      url: mailto:speedinghzl@gmail.com
+    - title: link
+      url: https://speedinghzl.github.io/
+      
 - name: Zhonghao Wang
   image:  zhonghao.jpg
   text: PhD candidate, ECE, UIUC
@@ -135,14 +144,6 @@
 
 ###-------------Visitors---------------------    
 
-- name: Zilong Huang
-  image: zilong.jpg
-  text: Visiting scholar, EIC, HUST
-  social:
-    - title: envelope #use for email address
-      url: mailto:speedinghzl@gmail.com
-    - title: link
-      url: https://speedinghzl.github.io/
 
 
 
