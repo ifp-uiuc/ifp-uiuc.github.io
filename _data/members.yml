@@ -112,7 +112,7 @@
 
 - name: Jiahui Yu
   image: jay.jpg
-  text: PhD candidate, ECE, UIUC
+  text: PhD ABD, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:hi@jhyu.me
