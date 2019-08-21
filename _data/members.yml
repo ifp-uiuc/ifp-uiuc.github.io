@@ -28,15 +28,6 @@
     - title: link
       url: http://ihome.ust.hk/~yzhouas/
       
-- name: Zilong Huang
-  image: zilong.jpg
-  text: Visiting scholar, EIC, HUST
-  social:
-    - title: envelope #use for email address
-      url: mailto:speedinghzl@gmail.com
-    - title: link
-      url: https://speedinghzl.github.io/
-      
 - name: Haoming Lu
   image: haoming.jpg
   text: PhD student, ECE, UIUC
@@ -119,6 +110,15 @@
     - title: link
       url: http://google.com
       
+- name: Zilong Huang
+  image: zilong.jpg
+  text: Visiting scholar, EIC, HUST
+  social:
+    - title: envelope #use for email address
+      url: mailto:speedinghzl@gmail.com
+    - title: link
+      url: https://speedinghzl.github.io/
+
 - name: Hao Li
   image: default.gif
   text: Visiting student,EE,Tsinghua
