@@ -18,18 +18,19 @@
     - title: link
       url: http://www.zhiqiangshen.com/
       
-- name: Jiachen Li
-  image: jiachen.jpg
-  text: Student, EST, SJTU
-  social:
-    - title: envelope #use for email address
-      url: mailto:ljcf1502123@sjtu.edu.cn 
-    - title: link
-      url: https://beckman.illinois.edu/directory/person/jiachenl
+# - name: Jiachen Li
+#   image: jiachen.jpg
+#   text: Student, EST, SJTU
+#   social:
+#     - title: envelope #use for email address
+#       url: mailto:ljcf1502123@sjtu.edu.cn 
+#     - title: link
+#       url: https://beckman.illinois.edu/directory/person/jiachenl
            
 - name: Rui Qian
   image: rui.jpg
-  text: Student, EECS, PKU
+  #text: Student, EECS, PKU
+  text: Student, CS, Cornell
   social:
     - title: envelope #use for email address
       url: mailto:qianrui@pku.edu.cn 
