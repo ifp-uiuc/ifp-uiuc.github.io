@@ -121,7 +121,7 @@
 
 - name: Hao Li
   image: default.gif
-  text: Visiting student,EE,Tsinghua
+  text: Visit. student, EE, Tsinghua
   social:
     - title: envelope #use for email address
       url: mailto:hao-li15@mails.tsinghua.edu.cn 
