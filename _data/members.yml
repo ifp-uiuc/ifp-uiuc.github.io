@@ -118,6 +118,15 @@
       url: mailto:yuchenf4@illinois.edu
     - title: link
       url: http://google.com
+      
+- name: Hao Li
+  image: default.gif
+  text: Visiting student, EE, Tsinghua
+  social:
+    - title: envelope #use for email address
+      url: mailto:hao-li15@mails.tsinghua.edu.cn 
+    - title: link
+      url: https://google.com
 
 - name: Jiahui Yu
   image: jay.jpg
