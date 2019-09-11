@@ -111,14 +111,14 @@
     - title: link
       url: https://www.linkedin.com/in/ning-xu-81365438
 
-- name: Humphrey H. Shi
-  image: honghui.jpg
-  text: IBM Research | UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:hshi10@illinois.edu
-    - title: link
-      url: https://www.linkedin.com/in/honghui-shi-38162257
+# - name: Humphrey H. Shi
+#   image: honghui.jpg
+#   text: IBM Research | UIUC
+#   social:
+#     - title: envelope #use for email address
+#       url: mailto:hshi10@illinois.edu
+#     - title: link
+#       url: https://www.linkedin.com/in/honghui-shi-38162257
 
 - name: Xinchao Wang
   image: xinchao.png
