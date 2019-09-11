@@ -119,15 +119,6 @@
     - title: link
       url: https://speedinghzl.github.io/
 
-- name: Hao Li
-  image: haoli.jpg
-  text: Visit. student, EE, Tsinghua
-  social:
-    - title: envelope #use for email address
-      url: mailto:hao-li15@mails.tsinghua.edu.cn 
-    - title: link
-      url: https://cpsxhao.github.io
-
 - name: Jiahui Yu
   image: jay.jpg
   text: PhD ABD, ECE, UIUC
