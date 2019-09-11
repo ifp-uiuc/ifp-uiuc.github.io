@@ -19,14 +19,14 @@
 
 ###-------------Staff---------------------
 
-- name: Yunchao Wei
-  image: yunchao.jpeg
-  text: "Postdoc, Project Scientist, <br/>Beckman Institute & C3SR"
-  social:
-    - title: envelope #use for email address
-      url: mailto:wychao1987@gmail.com    
-    - title: link
-      url: https://weiyc.github.io
+# - name: Yunchao Wei
+#   image: yunchao.jpeg
+#   text: "Postdoc, Project Scientist, <br/>Beckman Institute & C3SR"
+#   social:
+#     - title: envelope #use for email address
+#       url: mailto:wychao1987@gmail.com    
+#     - title: link
+#       url: https://weiyc.github.io
 
 - name: Paritosh Garg
   image: paritosh.jpg
