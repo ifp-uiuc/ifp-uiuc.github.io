@@ -1,3 +1,13 @@
+- name: Zengming Shen
+  image: zengming.jpg
+  #text: PhD ABD, NPRE, UIUC
+  text: CCC Info Services
+  social:
+    - title: envelope #use for email address
+      url: mailto:zshen5@illinois.edu
+    - title: link
+      url: https://www.linkedin.com/in/zengming-zack-shen-b7921147
+
 - name: Tianxi Zhao
   image: tianxi.jpg
   #text: MS student, ECE, UIUC
