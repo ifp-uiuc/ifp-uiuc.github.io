@@ -1,7 +1,7 @@
 - name: Yunchao Wei
   image: yunchao.jpeg
   #text: "Postdoc, Project Scientist, <br/>Beckman Institute & C3SR"
-  text: University Technology Sydney
+  text: University Tech. Sydney
   social:
     - title: envelope #use for email address
       url: mailto:wychao1987@gmail.com    
