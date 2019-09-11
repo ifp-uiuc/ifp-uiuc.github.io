@@ -1,3 +1,13 @@
+
+- name: Hao Li
+  image: haoli.jpg
+  text: Student, EE, Tsinghua
+  social:
+    - title: envelope #use for email address
+      url: mailto:hao-li15@mails.tsinghua.edu.cn 
+    - title: link
+      url: https://cpsxhao.github.io
+
 - name: Zengming Shen
   image: zengming.jpg
   #text: PhD ABD, NPRE, UIUC
