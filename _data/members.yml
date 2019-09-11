@@ -140,14 +140,14 @@
 
 ###-------------None ECE/CS---------------------
 
-- name: Zengming Shen
-  image: zengming.jpg
-  text: PhD ABD, NPRE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:zshen5@illinois.edu
-    - title: link
-      url: https://www.linkedin.com/in/zengming-zack-shen-b7921147
+# - name: Zengming Shen
+#   image: zengming.jpg
+#   text: PhD ABD, NPRE, UIUC
+#   social:
+#     - title: envelope #use for email address
+#       url: mailto:zshen5@illinois.edu
+#     - title: link
+#       url: https://www.linkedin.com/in/zengming-zack-shen-b7921147
       
   
 # - name: Siwei Tang
