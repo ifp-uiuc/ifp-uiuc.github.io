@@ -1,3 +1,13 @@
+- name: Zilong Huang
+  image: zilong.jpg
+  #text: Visiting scholar, EIC, HUST
+  text: Student, EIC, HUST
+  social:
+    - title: envelope #use for email address
+      url: mailto:speedinghzl@gmail.com
+    - title: link
+      url: https://speedinghzl.github.io/
+
 - name: Yunchao Wei
   image: yunchao.jpeg
   #text: "Postdoc, Project Scientist, <br/>Beckman Institute & C3SR"
