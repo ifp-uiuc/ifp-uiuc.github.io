@@ -3,7 +3,7 @@
 
 - name: Kuangxiao Gu
   image: kevin.jpg
-  text: PhD candidate, ECE, UIUC
+  text: PhD ABD, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:kgu3@illinois.edu
