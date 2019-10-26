@@ -93,7 +93,7 @@
       
 - name: Haoming Lu
   image: haoming.jpg
-  text: PhD student, ECE, UIUC
+  text: MS student, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:hl36@illinois.edu
@@ -111,7 +111,7 @@
       
 - name: Jiachen Li
   image: jiachen.jpg
-  text: PhD student, ECE, UIUC
+  text: MS student, ECE, UIUC
   #text: Student, EST, SJTU
   social:
     - title: envelope #use for email address
