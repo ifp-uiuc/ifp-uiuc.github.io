@@ -1,6 +1,24 @@
 
 ###-------------ECE Students---------------------
 
+- name: Kuangxiao Gu
+  image: kevin.jpg
+  text: PhD candidate, ECE, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto:kgu3@illinois.edu
+    - title: link
+      url: https://www.linkedin.com/in/kuangxiao-gu-b635027a
+      
+- name: Yuchen Fan
+  image: yuchen.jpg
+  text: PhD candidate, ECE, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto:yuchenf4@illinois.edu
+    - title: link
+      url: http://google.com
+
 - name: Haichao Yu
   image: hayden.jpg
   text: PhD candidate, ECE, UIUC
@@ -9,6 +27,33 @@
       url: mailto:haichaoyu3@gmail.com
     - title: link
       url: http://www.haichaoyu.me/
+      
+- name: Hanchao Yu
+  image: hank.jpg
+  text: PhD candidate, ECE, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto:hanchao2@illinois.edu
+    - title: link
+      url: http://beckman.illinois.edu/directory/person/hanchao2
+      
+- name: Jiahui Yu
+  image: jay.jpg
+  text: PhD ABD, ECE, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto:hi@jhyu.me
+    - title: link
+      url: http://jiahuiyu.com/
+
+- name: Yuqian Zhou
+  image: yuqian.jpg
+  text: PhD candidate, ECE, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto:zhouyuqian133@gmail.com
+    - title: link
+      url: http://ihome.ust.hk/~yzhouas/
 
 - name: Bowen Cheng
   image: bowen.jpg
@@ -18,61 +63,6 @@
       url: mailto:bcheng9@illinois.edu
     - title: link
       url: https://bowenc0221.github.io/
-      
-- name: Yuqian Zhou
-  image: yuqian.jpg
-  text: PhD candidate, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:zhouyuqian133@gmail.com
-    - title: link
-      url: http://ihome.ust.hk/~yzhouas/
-      
-- name: Haoming Lu
-  image: haoming.jpg
-  text: PhD student, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:hl36@illinois.edu
-    - title: link
-      url: https://google.com
-
-- name: Zhonghao Wang
-  image:  zhonghao.jpg
-  text: PhD candidate, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:zwang246@illinois.edu
-    - title: link
-      url: https://ece.illinois.edu/directory/profile/zwang246
-      
-- name: Jiachen Li
-  image: jiachen.jpg
-  text: PhD student, ECE, UIUC
-  #text: Student, EST, SJTU
-  social:
-    - title: envelope #use for email address
-      url: mailto:ljcf1502123@sjtu.edu.cn 
-    - title: link
-      url: https://chrisjuniorli.github.io/
-
-- name: Xingqian Xu
-  image:  xingqian.jpg
-  text: PhD student, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:xingqian8@gmail.com
-    - title: link
-      url: http://www.xingquant.com/
-      
-- name: MangTik Chiu
-  image:  mangtik.jpg
-  text: MS student, CS, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:mtchiu2@illinois.edu 
-    - title: link
-      url: http://mtchiu.github.io
 
 - name: Yang Fu
   image: yang.jpg
@@ -83,51 +73,52 @@
     - title: link
       url: http://google.com
       
-- name: Hanchao Yu
-  image: hank.jpg
+- name: Zhonghao Wang
+  image:  zhonghao.jpg
   text: PhD candidate, ECE, UIUC
   social:
     - title: envelope #use for email address
-      url: mailto:hanchao2@illinois.edu
+      url: mailto:zwang246@illinois.edu
     - title: link
-      url: http://beckman.illinois.edu/directory/person/hanchao2
-
-- name: Kuangxiao Gu
-  image: kevin.jpg
-  text: PhD candidate, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:kgu3@illinois.edu
-    - title: link
-      url: https://www.linkedin.com/in/kuangxiao-gu-b635027a
-
-- name: Yuchen Fan
-  image: yuchen.jpg
-  text: PhD candidate, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:yuchenf4@illinois.edu
-    - title: link
-      url: http://google.com
+      url: https://ece.illinois.edu/directory/profile/zwang246
       
-- name: Zilong Huang
-  image: zilong.jpg
-  text: Visiting scholar, EIC, HUST
+- name: Xingqian Xu
+  image:  xingqian.jpg
+  text: PhD student, ECE, UIUC
   social:
     - title: envelope #use for email address
-      url: mailto:speedinghzl@gmail.com
+      url: mailto:xingqian8@gmail.com
     - title: link
-      url: https://speedinghzl.github.io/
-
-- name: Jiahui Yu
-  image: jay.jpg
-  text: PhD ABD, ECE, UIUC
+      url: http://www.xingquant.com/
+      
+- name: Haoming Lu
+  image: haoming.jpg
+  text: PhD student, ECE, UIUC
   social:
     - title: envelope #use for email address
-      url: mailto:hi@jhyu.me
+      url: mailto:hl36@illinois.edu
     - title: link
-      url: http://jiahuiyu.com/
-         
+      url: https://google.com
+      
+- name: MangTik Chiu
+  image:  mangtik.jpg
+  text: MS student, CS, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto:mtchiu2@illinois.edu 
+    - title: link
+      url: http://mtchiu.github.io
+      
+- name: Jiachen Li
+  image: jiachen.jpg
+  text: PhD student, ECE, UIUC
+  #text: Student, EST, SJTU
+  social:
+    - title: envelope #use for email address
+      url: mailto:ljcf1502123@sjtu.edu.cn 
+    - title: link
+      url: https://chrisjuniorli.github.io/
+  
 
 ###-------------None ECE/CS---------------------
 
