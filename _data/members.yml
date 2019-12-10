@@ -66,7 +66,7 @@
 
 - name: Yang Fu
   image: yang.jpg
-  text: PhD student, ECE, UIUC
+  text: PhD candidate, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:yangfuwork@gmail.com
@@ -84,7 +84,7 @@
       
 - name: Xingqian Xu
   image:  xingqian.jpg
-  text: PhD student, ECE, UIUC
+  text: PhD candidate, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:xingqian8@gmail.com
