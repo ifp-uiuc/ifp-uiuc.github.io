@@ -91,14 +91,6 @@
     - title: link
       url: http://www.xingquant.com/
       
-- name: Haoming Lu
-  image: haoming.jpg
-  text: MS student, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:hl36@illinois.edu
-    - title: link
-      url: https://google.com
       
 - name: MangTik Chiu
   image:  mangtik.jpg
