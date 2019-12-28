@@ -1,7 +1,7 @@
 - name: Haoming Lu
   image: haoming.jpg
   #text: MS student, ECE, UIUC
-  text: TBD. Graduating...
+  text: TBD
   social:
     - title: envelope #use for email address
       url: mailto:hl36@illinois.edu
