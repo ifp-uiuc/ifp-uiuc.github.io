@@ -7,7 +7,17 @@
       url: mailto:hl36@illinois.edu
     - title: link
       url: https://google.com
-      
+ 
+- name: Jiahui Yu
+  image: jay.jpg
+  #text: PhD ABD, ECE, UIUC
+  text: Google Brain
+  social:
+    - title: envelope #use for email address
+      url: mailto:hi@jhyu.me
+    - title: link
+      url: http://jiahuiyu.com/
+
 - name: Zilong Huang
   image: zilong.jpg
   #text: Visiting scholar, EIC, HUST
