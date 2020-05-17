@@ -8,6 +8,16 @@
 #     - title: link
 #       url: https://google.com
  
+- name: Kuangxiao Gu
+  image: kevin.jpg
+  text: 3M
+  #text: PhD ABD, ECE, UIUC
+  social:
+    - title: envelope #use for email address
+      url: mailto:kgu3@illinois.edu
+    - title: link
+      url: https://www.linkedin.com/in/kuangxiao-gu-b635027a
+ 
 - name: Jiahui Yu
   image: jay.jpg
   #text: PhD ABD, ECE, UIUC
