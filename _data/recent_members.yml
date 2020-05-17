@@ -17,6 +17,17 @@
       url: mailto:hl36@illinois.edu
     - title: link
       url: https://google.com
+      
+- name: Yiqun Mei
+  image: yiqun.jpeg
+  # text: MS student, ECE, UIUC
+  text: PhD Student, Northeastern
+  social:
+    - title: envelope #use for email address
+      url: mailto:yiqunm2@illinois.edu
+    - title: link
+      url: https://yiqunm2.web.illinois.edu
+  
  
 - name: Kuangxiao Gu
   image: kevin.jpg
