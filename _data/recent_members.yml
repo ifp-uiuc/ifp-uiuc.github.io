@@ -41,7 +41,8 @@
 - name: Zilong Huang
   image: zilong.jpg
   #text: Visiting scholar, EIC, HUST
-  text: Student, EIC, HUST
+  #text: Student, EIC, HUST
+  text: Alibaba Damo Academy
   social:
     - title: envelope #use for email address
       url: mailto:speedinghzl@gmail.com
