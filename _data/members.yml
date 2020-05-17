@@ -111,15 +111,15 @@
     - title: link
       url: https://chrisjuniorli.github.io/
  
-- name: Haoming Lu
-  image: haoming.jpg
-  text: MS student, ECE, UIUC
-  #text: TBD
-  social:
-    - title: envelope #use for email address
-      url: mailto:hl36@illinois.edu
-    - title: link
-      url: https://google.com
+# - name: Haoming Lu
+#   image: haoming.jpg
+#   text: MS student, ECE, UIUC
+#   #text: TBD
+#   social:
+#     - title: envelope #use for email address
+#       url: mailto:hl36@illinois.edu
+#     - title: link
+#       url: https://google.com
 
 ###-------------None ECE/CS---------------------
 
