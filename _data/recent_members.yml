@@ -7,6 +7,16 @@
 #       url: mailto:hl36@illinois.edu
 #     - title: link
 #       url: https://google.com
+
+- name: Haoming Lu
+  image: haoming.jpg
+  # text: MS student, ECE, UIUC
+  text: AWS Shanghai AI Lab
+  social:
+    - title: envelope #use for email address
+      url: mailto:hl36@illinois.edu
+    - title: link
+      url: https://google.com
  
 - name: Kuangxiao Gu
   image: kevin.jpg
@@ -17,7 +27,7 @@
       url: mailto:kgu3@illinois.edu
     - title: link
       url: https://www.linkedin.com/in/kuangxiao-gu-b635027a
- 
+
 - name: Jiahui Yu
   image: jay.jpg
   #text: PhD ABD, ECE, UIUC
