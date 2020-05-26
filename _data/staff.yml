@@ -10,7 +10,8 @@
 
 - name: Humphrey Shi
   image: honghui.jpg
-  text: "IFP Co-Leader At Large, <br/>Graduate Faculty Member"
+  text: "Graduate Faculty Member"
+#   text: "IFP Co-Leader At Large, <br/>Graduate Faculty Member"
   social:
     - title: envelope #use for email address
       url: mailto:hshi10@illinois.edu   
@@ -30,7 +31,8 @@
 
 - name: Paritosh Garg
   image: paritosh.jpg
-  text: "Sr Research Programmer, <br/>Beckman Institute"
+#   text: "Sr Research Programmer, <br/>Beckman Institute"
+  text: "Sr Research Programmer"
   social:
     - title: envelope #use for email address
       url: mailto:paritosh@illinois.edu 
