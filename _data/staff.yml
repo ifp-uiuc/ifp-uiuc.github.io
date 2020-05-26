@@ -1,14 +1,14 @@
 ###-------------Faculty---------------------
-- name: Thomas S. Huang
-  image: huang.jpg
-  text: "IFP Founding Leader, <br/> Swunland Chair Emeritus"
-  social:
-    - title: envelope #use for email address
-      url: mailto:ifp.uiuc@gmail.com    
-    - title: link
-      url: https://ece.illinois.edu/directory/profile/t-huang1
+# - name: Thomas S. Huang
+#   image: huang.jpg
+#   text: "IFP Founding Leader, <br/> Swunland Chair Emeritus"
+#   social:
+#     - title: envelope #use for email address
+#       url: mailto:ifp.uiuc@gmail.com    
+#     - title: link
+#       url: https://ece.illinois.edu/directory/profile/t-huang1
 
-- name: Humphrey H. Shi
+- name: Humphrey Shi
   image: honghui.jpg
   text: "IFP Co-Leader At Large, <br/>Graduate Faculty Member"
   social:
