@@ -21,7 +21,7 @@
 - name: Yiqun Mei
   image: yiqun.jpeg
   # text: MS student, ECE, UIUC
-  text: PhD Stu., Northeastern
+  text: PhD Stu., TBD
   social:
     - title: envelope #use for email address
       url: mailto:yiqunm2@illinois.edu
