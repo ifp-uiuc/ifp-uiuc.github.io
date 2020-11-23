@@ -222,7 +222,7 @@
 - name: Prajit R. # Prajit
   image: prajit.png
   #text: Google Brain
-  text: Google Brain Resident
+  text: Google Brain
   social:
     - title: envelope #use for email address
       url: mailto:prajitram@gmail.com
