@@ -94,7 +94,7 @@
       
 - name: MangTik Chiu
   image:  mangtik.jpg
-  text: MS student, ECE, UIUC
+  text: PhD student, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:mtchiu2@illinois.edu 
@@ -103,7 +103,7 @@
       
 - name: Jiachen Li
   image: jiachen.jpg
-  text: MS student, ECE, UIUC
+  text: PhD student, ECE, UIUC
   #text: Student, EST, SJTU
   social:
     - title: envelope #use for email address
