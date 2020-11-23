@@ -121,7 +121,7 @@
 - name: Rui Qian
   image: rui.jpg
   #text: Student, EECS, PKU
-  text: Student, CS, Cornell
+  text: PhD Student, Cornell
   social:
     - title: envelope #use for email address
       url: mailto:qianrui@pku.edu.cn 
@@ -148,7 +148,7 @@
 
 - name: Ding Liu
   image: ding.jpg
-  text: Toutiao AI Lab
+  text: ByteDance AI Lab
   social:
     - title: envelope #use for email address
       url: mailto:dingliu2@illinois.edu
@@ -157,7 +157,7 @@
 
 - name: Wei Han
   image: wei.jpg
-  text: Google
+  text: Google Brain
   social:
     - title: envelope #use for email address
       url: mailto:weihan3@illinois.edu
@@ -249,7 +249,7 @@
       
 - name: Zhangyang Wang
   image: atlas.jpg
-  text: Texas A&M University
+  text: UT Austin
   social:
     - title: envelope #use for email address
       url: mailto:masterwant@gmail.com
@@ -270,7 +270,7 @@
 - name: Xianming Liu
   image: xianming.jpg
   #text: Facebook Research
-  text: Horizon Robotics
+  text: Cruise
   social:
     - title: envelope #use for email address
       url: mailto:xliu102@illinois.edu
