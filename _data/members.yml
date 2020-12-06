@@ -57,7 +57,7 @@
 
 - name: Bowen Cheng
   image: bowen.jpg
-  text: PhD candidate, ECE, UIUC
+  text: PhD ABD, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:bcheng9@illinois.edu
