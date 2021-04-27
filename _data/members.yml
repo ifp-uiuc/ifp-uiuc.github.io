@@ -12,7 +12,7 @@
       
 - name: Yuchen Fan
   image: yuchen.jpg
-  text: PhD candidate, ECE, UIUC
+  text: PhD ABD, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:yuchenf4@illinois.edu
@@ -21,7 +21,7 @@
 
 - name: Haichao Yu
   image: hayden.jpg
-  text: PhD candidate, ECE, UIUC
+  text: PhD ABD, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:haichaoyu3@gmail.com
@@ -30,7 +30,7 @@
       
 - name: Hanchao Yu
   image: hank.jpg
-  text: PhD candidate, ECE, UIUC
+  text: PhD ABD, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:hanchao2@illinois.edu
@@ -48,7 +48,7 @@
 
 - name: Yuqian Zhou
   image: yuqian.jpg
-  text: PhD candidate, ECE, UIUC
+  text: PhD ABD, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:zhouyuqian133@gmail.com
@@ -94,7 +94,7 @@
       
 - name: MangTik Chiu
   image:  mangtik.jpg
-  text: PhD student, ECE, UIUC
+  text: PhD candidate, ECE, UIUC
   social:
     - title: envelope #use for email address
       url: mailto:mtchiu2@illinois.edu 
@@ -103,7 +103,7 @@
       
 - name: Jiachen Li
   image: jiachen.jpg
-  text: PhD student, ECE, UIUC
+  text: PhD candidate, ECE, UIUC
   #text: Student, EST, SJTU
   social:
     - title: envelope #use for email address
