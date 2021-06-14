@@ -8,6 +8,15 @@
 #     - title: link
 #       url: https://google.com
 
+- name: Yuchen Fan
+  image: yuchen.jpg
+  text: Facebook
+  social:
+    - title: envelope #use for email address
+      url: mailto:yuchenf4@illinois.edu
+    - title: link
+      url: https://ychfan.github.io/
+
 - name: Haoming Lu
   image: haoming.jpg
   # text: MS student, ECE, UIUC
