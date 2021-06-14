@@ -39,7 +39,7 @@
 - name: Yiqun Mei
   image: yiqun.jpeg
   # text: MS student, ECE, UIUC
-  text: PhD Stu., TBD
+  text: PhD Student, JHU
   social:
     - title: envelope #use for email address
       url: mailto:yiqunm2@illinois.edu
