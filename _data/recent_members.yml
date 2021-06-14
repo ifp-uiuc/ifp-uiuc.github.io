@@ -17,6 +17,15 @@
     - title: link
       url: https://ychfan.github.io/
 
+- name: Yang Fu
+  image: yang.jpg
+  text: PhD stduent, UCSD
+  social:
+    - title: envelope #use for email address
+      url: mailto:yangfuwork@gmail.com
+    - title: link
+      url: https://oasisyang.github.io/
+
 - name: Haoming Lu
   image: haoming.jpg
   # text: MS student, ECE, UIUC
@@ -25,7 +34,7 @@
     - title: envelope #use for email address
       url: mailto:hl36@illinois.edu
     - title: link
-      url: https://google.com
+      url: https://scholar.google.com/citations?user=2-93gvIAAAAJ&hl=en
       
 - name: Yiqun Mei
   image: yiqun.jpeg
