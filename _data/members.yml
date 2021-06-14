@@ -10,14 +10,14 @@
 #     - title: link
 #       url: https://www.linkedin.com/in/kuangxiao-gu-b635027a
       
-- name: Yuchen Fan
-  image: yuchen.jpg
-  text: PhD ABD, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:yuchenf4@illinois.edu
-    - title: link
-      url: http://google.com
+# - name: Yuchen Fan
+#   image: yuchen.jpg
+#   text: PhD ABD, ECE, UIUC
+#   social:
+#     - title: envelope #use for email address
+#       url: mailto:yuchenf4@illinois.edu
+#     - title: link
+#       url: http://google.com
 
 - name: Haichao Yu
   image: hayden.jpg
@@ -64,14 +64,14 @@
     - title: link
       url: https://bowenc0221.github.io/
 
-- name: Yang Fu
-  image: yang.jpg
-  text: PhD candidate, ECE, UIUC
-  social:
-    - title: envelope #use for email address
-      url: mailto:yangfuwork@gmail.com
-    - title: link
-      url: http://google.com
+# - name: Yang Fu
+#   image: yang.jpg
+#   text: PhD candidate, ECE, UIUC
+#   social:
+#     - title: envelope #use for email address
+#       url: mailto:yangfuwork@gmail.com
+#     - title: link
+#       url: http://google.com
       
 - name: Zhonghao Wang
   image:  zhonghao.jpg
